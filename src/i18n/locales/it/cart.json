@@ -1,0 +1,50 @@
+{
+  "title": "Il tuo carrello",
+  "pageTitle": "Carrello",
+  "empty": {
+    "title": "Il tuo carrello è vuoto",
+    "description": "Sembra che non hai ancora aggiunto nessun articolo. Sfoglia i nostri ristoranti e trova qualcosa di delizioso!",
+    "browseRestaurants": "Sfoglia ristoranti"
+  },
+  "item": {
+    "specialInstructions": "Istruzioni speciali",
+    "remove": "Rimuovi",
+    "options": "Opzioni"
+  },
+  "summary": {
+    "title": "Riepilogo ordine",
+    "subtotal": "Subtotale",
+    "deliveryFee": "Costo di consegna",
+    "freeDelivery": "Gratuita",
+    "total": "Totale",
+    "minimumOrder": "Ordine minimo: {{amount}}",
+    "belowMinimum": "Aggiungi ancora {{amount}} per raggiungere l'ordine minimo",
+    "itemCount": "{{count}} articolo",
+    "itemCount_other": "{{count}} articoli"
+  },
+  "orderType": {
+    "label": "Tipo di ordine",
+    "delivery": "Consegna",
+    "pickup": "Ritiro"
+  },
+  "actions": {
+    "checkout": "Procedi al pagamento",
+    "loginToCheckout": "Accedi per ordinare",
+    "loginToCheckoutHint": "Devi essere connesso per effettuare un ordine.",
+    "continueShopping": "Continua gli acquisti",
+    "clearCart": "Svuota carrello",
+    "viewCart": "Visualizza carrello",
+    "goToRestaurant": "Vai al ristorante"
+  },
+  "restaurant": {
+    "orderingFrom": "Ordine da",
+    "differentRestaurant": "Ristorante diverso",
+    "differentRestaurantWarning": "Il tuo carrello contiene articoli da {{restaurant}}. Un nuovo ordine cancellerà il carrello attuale.",
+    "replaceCart": "Sostituisci carrello",
+    "keepCart": "Mantieni carrello"
+  },
+  "sidebar": {
+    "title": "Il tuo ordine",
+    "emptyHint": "Aggiungi articoli dal menu"
+  }
+}

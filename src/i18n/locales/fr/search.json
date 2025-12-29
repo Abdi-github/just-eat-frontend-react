@@ -1,0 +1,69 @@
+{
+  "title": "Résultats de recherche",
+  "pageTitle": "Recherche \"{{query}}\"",
+  "pageTitleNoQuery": "Parcourir les restaurants",
+  "placeholder": "Rechercher des restaurants ou des plats...",
+  "locationPlaceholder": "Entrez votre adresse ou ville...",
+  "searchButton": "Rechercher",
+  "resultsCount": "{{count}} restaurant trouvé",
+  "resultsCount_other": "{{count}} restaurants trouvés",
+  "noResults": "Aucun résultat trouvé",
+  "noResultsDescription": "Nous n'avons trouvé aucun restaurant correspondant à votre recherche. Essayez d'ajuster vos filtres ou votre terme de recherche.",
+  "tryAgain": "Effacer la recherche",
+  "showingResults": "Affichage de {{from}}–{{to}} sur {{total}}",
+  "searchIn": "Recherche dans {{location}}",
+  "suggestions": {
+    "title": "Suggestions",
+    "restaurants": "Restaurants",
+    "cuisines": "Cuisines",
+    "noSuggestions": "Aucune suggestion trouvée",
+    "typeToSearch": "Tapez au moins 2 caractères pour rechercher",
+    "viewAll": "Voir tous les résultats pour \"{{query}}\""
+  },
+  "filters": {
+    "title": "Filtres",
+    "cuisine": "Cuisine",
+    "allCuisines": "Toutes les cuisines",
+    "rating": "Note minimale",
+    "anyRating": "Toute note",
+    "deliveryFee": "Frais de livraison max.",
+    "anyFee": "Tout prix",
+    "orderType": "Type de commande",
+    "all": "Tous",
+    "delivery": "Livraison",
+    "pickup": "À emporter",
+    "sortBy": "Trier par",
+    "sortOptions": {
+      "relevance": "Pertinence",
+      "rating": "Mieux notés",
+      "deliveryFee": "Frais de livraison les plus bas",
+      "deliveryTime": "Livraison la plus rapide",
+      "reviewCount": "Plus d'avis",
+      "name": "Nom (A–Z)"
+    },
+    "clearFilters": "Effacer les filtres",
+    "activeFilters": "{{count}} filtre actif",
+    "activeFilters_other": "{{count}} filtres actifs"
+  },
+  "location": {
+    "title": "Lieu de livraison",
+    "change": "Changer de lieu",
+    "currentLocation": "Position actuelle",
+    "popularCities": "Villes populaires",
+    "searchPlaceholder": "Ville, code postal ou adresse...",
+    "noResults": "Aucun lieu trouvé",
+    "cantons": "Cantons",
+    "cities": "Villes",
+    "restaurants_one": "{{count}} restaurant",
+    "restaurants_other": "{{count}} restaurants"
+  },
+  "card": {
+    "sponsored": "Sponsorisé",
+    "new": "Nouveau",
+    "closed": "Actuellement fermé",
+    "minOrder": "Min. {{amount}}",
+    "freeDelivery": "Livraison gratuite",
+    "delivery": "Livraison {{time}}",
+    "pickup": "À emporter"
+  }
+}

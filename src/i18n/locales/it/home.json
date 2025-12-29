@@ -1,0 +1,53 @@
+{
+  "hero": {
+    "title": "Fame? Sei nel posto giusto.",
+    "subtitle": "Ordina cibo dai migliori ristoranti vicino a te",
+    "searchPlaceholder": "Inserisci il tuo indirizzo o codice postale",
+    "delivery": "Consegna",
+    "pickup": "Ritiro",
+    "findRestaurants": "Trova ristoranti",
+    "or": "o",
+    "useMyLocation": "Usa la mia posizione",
+    "popularCities": "Città popolari"
+  },
+  "cuisines": {
+    "title": "Cucine popolari",
+    "subtitle": "Scopri le nostre categorie più popolari",
+    "viewAll": "Vedi tutte le cucine",
+    "viewLess": "Mostra meno",
+    "restaurants": "{{count}} ristoranti"
+  },
+  "topRestaurants": {
+    "title": "I migliori ristoranti vicino a te",
+    "subtitle": "I ristoranti più votati che consegnano nella tua zona",
+    "titleInCity": "Migliori ristoranti a {{city}}",
+    "subtitleInCity": "In base alla tua posizione a {{city}}",
+    "viewAll": "Vedi tutti i ristoranti",
+    "deliveryFee": "Consegna {{fee}}",
+    "freeDelivery": "Consegna gratuita",
+    "minOrder": "Min. {{amount}}",
+    "rating": "{{rating}}",
+    "reviews": "({{count}})",
+    "deliveryTime": "{{min}}–{{max}} min",
+    "featured": "In evidenza"
+  },
+  "howItWorks": {
+    "title": "Come funziona",
+    "subtitle": "Ordina in 3 semplici passaggi",
+    "step1Title": "Scegli il tuo ristorante",
+    "step1Description": "Sfoglia centinaia di ristoranti e cucine nella tua zona",
+    "step2Title": "Scegli il tuo piatto",
+    "step2Description": "Scegli da un'ampia varietà di piatti e personalizza il tuo ordine",
+    "step3Title": "Gusta il tuo pasto",
+    "step3Description": "Segui la consegna in tempo reale e gusta il tuo pasto a casa"
+  },
+  "appPromotion": {
+    "title": "Ordina in movimento",
+    "subtitle": "Scarica l'app just-eat.ch per un'esperienza migliore",
+    "feature1": "Offerte esclusive nell'app",
+    "feature2": "Segui la consegna in tempo reale",
+    "feature3": "Riordina rapidamente i tuoi preferiti",
+    "downloadOnAppStore": "Scarica dall'App Store",
+    "getOnGooglePlay": "Disponibile su Google Play"
+  }
+}

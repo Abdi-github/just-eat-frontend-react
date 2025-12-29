@@ -1,0 +1,112 @@
+{
+  "title": "I miei ordini",
+  "orderHistory": "Cronologia ordini",
+  "noOrders": "Non hai ancora effettuato ordini.",
+  "noOrdersDescription": "Quando effettui un ordine, apparirà qui.",
+  "browseRestaurants": "Sfoglia i ristoranti",
+  "orderNumber": "Ordine #{{number}}",
+  "placedAt": "Ordinato il {{date}}",
+  "items_one": "{{count}} articolo",
+  "items_other": "{{count}} articoli",
+  "reorder": "Riordina",
+  "viewDetails": "Vedi dettagli",
+  "trackOrder": "Traccia ordine",
+  "cancelOrder": "Annulla ordine",
+  "filters": {
+    "all": "Tutti gli ordini",
+    "active": "Attivi",
+    "completed": "Completati",
+    "cancelled": "Annullati"
+  },
+  "sort": {
+    "newest": "Più recenti",
+    "oldest": "Più vecchi",
+    "highestTotal": "Importo più alto",
+    "lowestTotal": "Importo più basso"
+  },
+  "detail": {
+    "title": "Dettagli ordine",
+    "orderNumber": "Ordine #{{number}}",
+    "restaurant": "Ristorante",
+    "orderType": "Tipo di ordine",
+    "delivery": "Consegna",
+    "pickup": "Ritiro",
+    "status": "Stato",
+    "items": "Articoli",
+    "specialInstructions": "Istruzioni speciali",
+    "deliveryAddress": "Indirizzo di consegna",
+    "floor": "Piano {{floor}}",
+    "deliveryInstructions": "Istruzioni di consegna",
+    "courier": "Corriere",
+    "paymentMethod": "Metodo di pagamento",
+    "paymentStatus": "Stato del pagamento",
+    "summary": "Riepilogo ordine",
+    "subtotal": "Subtotale",
+    "deliveryFee": "Spese di consegna",
+    "serviceFee": "Costi di servizio",
+    "tip": "Mancia",
+    "discount": "Sconto",
+    "total": "Totale",
+    "free": "Gratuito",
+    "backToOrders": "Torna agli ordini"
+  },
+  "cancel": {
+    "title": "Annulla ordine",
+    "description": "Sei sicuro di voler annullare questo ordine? Questa azione non può essere annullata.",
+    "reason": "Motivo dell'annullamento",
+    "reasonPlaceholder": "Per favore dicci perché stai annullando...",
+    "confirm": "Conferma annullamento",
+    "cancelling": "Annullamento in corso...",
+    "success": "Ordine annullato con successo.",
+    "error": "Annullamento fallito. L'ordine potrebbe essere già in preparazione.",
+    "reasonRequired": "Per favore fornisci un motivo (almeno 3 caratteri)."
+  },
+  "tracking": {
+    "title": "Tracciamento ordine",
+    "orderNumber": "Ordine #{{number}}",
+    "estimatedDelivery": "Consegna stimata",
+    "liveTracking": "Tracciamento in tempo reale",
+    "courierLocation": "Posizione del corriere",
+    "lastUpdated": "Aggiornato {{time}}",
+    "pickupAddress": "Ritiro",
+    "deliveryAddress": "Consegna",
+    "noTrackingAvailable": "Le informazioni di tracciamento non sono ancora disponibili.",
+    "orderDelivered": "Il tuo ordine è stato consegnato!",
+    "deliveredAt": "Consegnato alle {{time}}"
+  },
+  "timeline": {
+    "PLACED": "Ordine effettuato",
+    "ACCEPTED": "Ordine accettato",
+    "REJECTED": "Ordine rifiutato",
+    "PREPARING": "In preparazione",
+    "READY": "Pronto per il ritiro",
+    "PICKED_UP": "Ritirato",
+    "IN_TRANSIT": "In transito",
+    "DELIVERED": "Consegnato",
+    "CANCELLED": "Annullato"
+  },
+  "status": {
+    "PLACED": "Effettuato",
+    "ACCEPTED": "Accettato",
+    "REJECTED": "Rifiutato",
+    "PREPARING": "In preparazione",
+    "READY": "Pronto",
+    "PICKED_UP": "Ritirato",
+    "IN_TRANSIT": "In transito",
+    "DELIVERED": "Consegnato",
+    "CANCELLED": "Annullato"
+  },
+  "paymentMethods": {
+    "card": "Carta di credito",
+    "twint": "TWINT",
+    "postfinance": "PostFinance",
+    "cash": "Pagamento alla consegna"
+  },
+  "paymentStatus": {
+    "PENDING": "In attesa",
+    "PROCESSING": "In elaborazione",
+    "PAID": "Pagato",
+    "FAILED": "Fallito",
+    "REFUNDED": "Rimborsato"
+  }
+}

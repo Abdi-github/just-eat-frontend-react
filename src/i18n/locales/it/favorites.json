@@ -1,0 +1,18 @@
+{
+  "title": "I miei preferiti",
+  "subtitle": "I tuoi ristoranti salvati",
+  "noFavorites": "Non hai ancora salvato preferiti.",
+  "noFavoritesDescription": "Tocca l'icona del cuore su un ristorante per salvarlo qui.",
+  "browseRestaurants": "Sfoglia i ristoranti",
+  "remove": "Rimuovi",
+  "removed": "Rimosso dai preferiti.",
+  "added": "Aggiunto ai preferiti.",
+  "removeError": "Impossibile aggiornare i preferiti.",
+  "delivery": "Consegna",
+  "pickup": "Ritiro",
+  "closed": "Chiuso",
+  "rating": "{{rating}} ({{count}} recensioni)",
+  "deliveryFee": "Consegna {{fee}}",
+  "deliveryFree": "Consegna gratuita",
+  "deliveryTime": "{{min}}–{{max}} min"
+}

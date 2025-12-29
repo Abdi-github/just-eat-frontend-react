@@ -1,0 +1,64 @@
+{
+  "title": "Benachrichtigungen",
+  "subtitle": "Bleiben Sie über Ihre Bestellungen und Ihr Konto informiert",
+  "empty": "Keine Benachrichtigungen",
+  "emptyDesc": "Sie haben im Moment keine Benachrichtigungen.",
+  "markAllRead": "Alle als gelesen markieren",
+  "deleteAll": "Alle löschen",
+  "markRead": "Als gelesen markieren",
+  "delete": "Löschen",
+  "unread": "Ungelesen",
+  "all": "Alle",
+  "unreadCount": "{{count}} ungelesen",
+  "justNow": "Gerade eben",
+  "minutesAgo": "vor {{count}} Min.",
+  "hoursAgo": "vor {{count}} Std.",
+  "daysAgo": "vor {{count}} T.",
+  "filters": {
+    "all": "Alle",
+    "unread": "Nur ungelesene",
+    "orders": "Bestellungen",
+    "promotions": "Aktionen",
+    "system": "System"
+  },
+  "types": {
+    "ORDER_PLACED": "Bestellung aufgegeben",
+    "ORDER_ACCEPTED": "Bestellung akzeptiert",
+    "ORDER_REJECTED": "Bestellung abgelehnt",
+    "ORDER_PREPARING": "In Zubereitung",
+    "ORDER_READY": "Bestellung bereit",
+    "ORDER_PICKED_UP": "Abgeholt",
+    "ORDER_IN_TRANSIT": "Unterwegs",
+    "ORDER_DELIVERED": "Geliefert",
+    "ORDER_CANCELLED": "Storniert",
+    "WELCOME": "Willkommen",
+    "EMAIL_VERIFIED": "E-Mail bestätigt",
+    "PASSWORD_RESET": "Passwort zurückgesetzt",
+    "REVIEW_REPLY": "Bewertungsantwort",
+    "REVIEW_APPROVED": "Bewertung genehmigt",
+    "PROMOTION_NEW": "Neue Aktion",
+    "STAMP_COMPLETED": "Stempelkarte vollständig",
+    "DELIVERY_ASSIGNED": "Lieferung zugewiesen",
+    "RESTAURANT_APPROVED": "Restaurant genehmigt",
+    "RESTAURANT_REJECTED": "Restaurant abgelehnt",
+    "SYSTEM": "System"
+  },
+  "priority": {
+    "LOW": "Niedrig",
+    "NORMAL": "Normal",
+    "HIGH": "Hoch",
+    "URGENT": "Dringend"
+  },
+  "confirmDeleteAll": "Sind Sie sicher, dass Sie alle Benachrichtigungen löschen möchten?",
+  "success": {
+    "markedRead": "Benachrichtigung als gelesen markiert",
+    "allMarkedRead": "Alle Benachrichtigungen als gelesen markiert",
+    "deleted": "Benachrichtigung gelöscht",
+    "allDeleted": "Alle Benachrichtigungen gelöscht"
+  },
+  "errors": {
+    "markReadFailed": "Benachrichtigung konnte nicht als gelesen markiert werden",
+    "deleteFailed": "Benachrichtigung konnte nicht gelöscht werden",
+    "loadFailed": "Benachrichtigungen konnten nicht geladen werden"
+  }
+}

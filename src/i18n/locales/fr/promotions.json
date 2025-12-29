@@ -1,0 +1,52 @@
+{
+  "title": "Promotions",
+  "subtitle": "Vos coupons et cartes de fidélité",
+  "tabs": {
+    "stamps": "Cartes de fidélité",
+    "coupons": "Coupons"
+  },
+  "stamps": {
+    "title": "Mes cartes de fidélité",
+    "subtitle": "Collectionnez des tampons à chaque commande",
+    "empty": "Pas encore de cartes de fidélité",
+    "emptyDesc": "Commencez à commander pour collecter des tampons et gagner des récompenses !",
+    "progress": "{{collected}} / {{required}} tampons",
+    "complete": "Complète !",
+    "redeem": "Réclamer la récompense",
+    "redeeming": "Réclamation...",
+    "redeemed": "Réclamée",
+    "reward": "Récompense",
+    "restaurant": "Restaurant",
+    "stampsLeft": "Encore {{count}} tampons",
+    "validUntil": "Valide jusqu'au {{date}}",
+    "expired": "Expirée"
+  },
+  "coupons": {
+    "title": "Vérifier un coupon",
+    "subtitle": "Entrez un code coupon pour vérifier sa validité",
+    "code": "Code coupon",
+    "codePlaceholder": "Entrez le code coupon",
+    "restaurant": "Restaurant",
+    "subtotal": "Sous-total de la commande",
+    "validate": "Vérifier",
+    "validating": "Vérification...",
+    "valid": "Coupon valide !",
+    "invalid": "Coupon invalide",
+    "discount": "Réduction",
+    "discountAmount": "Vous économisez {{amount}}",
+    "minimumOrder": "Commande minimum : {{amount}}",
+    "maxDiscount": "Réduction max. : {{amount}}",
+    "validFrom": "Valide à partir du {{date}}",
+    "validUntil": "Valide jusqu'au {{date}}",
+    "percentage": "{{value}}% de réduction",
+    "flat": "{{amount}} de réduction"
+  },
+  "success": {
+    "redeemed": "Récompense réclamée avec succès !"
+  },
+  "errors": {
+    "redeemFailed": "Impossible de réclamer la récompense",
+    "validateFailed": "Impossible de vérifier le coupon",
+    "loadFailed": "Impossible de charger les promotions"
+  }
+}

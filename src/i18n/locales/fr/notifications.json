@@ -1,0 +1,64 @@
+{
+  "title": "Notifications",
+  "subtitle": "Restez informé de vos commandes et de votre compte",
+  "empty": "Aucune notification",
+  "emptyDesc": "Vous n'avez aucune notification pour le moment.",
+  "markAllRead": "Tout marquer comme lu",
+  "deleteAll": "Tout supprimer",
+  "markRead": "Marquer comme lu",
+  "delete": "Supprimer",
+  "unread": "Non lu",
+  "all": "Tout",
+  "unreadCount": "{{count}} non lues",
+  "justNow": "À l'instant",
+  "minutesAgo": "il y a {{count}} min",
+  "hoursAgo": "il y a {{count}}h",
+  "daysAgo": "il y a {{count}}j",
+  "filters": {
+    "all": "Toutes",
+    "unread": "Non lues uniquement",
+    "orders": "Commandes",
+    "promotions": "Promotions",
+    "system": "Système"
+  },
+  "types": {
+    "ORDER_PLACED": "Commande passée",
+    "ORDER_ACCEPTED": "Commande acceptée",
+    "ORDER_REJECTED": "Commande refusée",
+    "ORDER_PREPARING": "En préparation",
+    "ORDER_READY": "Commande prête",
+    "ORDER_PICKED_UP": "Retirée",
+    "ORDER_IN_TRANSIT": "En transit",
+    "ORDER_DELIVERED": "Livrée",
+    "ORDER_CANCELLED": "Annulée",
+    "WELCOME": "Bienvenue",
+    "EMAIL_VERIFIED": "Email vérifié",
+    "PASSWORD_RESET": "Réinitialisation du mot de passe",
+    "REVIEW_REPLY": "Réponse à un avis",
+    "REVIEW_APPROVED": "Avis approuvé",
+    "PROMOTION_NEW": "Nouvelle promotion",
+    "STAMP_COMPLETED": "Carte de fidélité complète",
+    "DELIVERY_ASSIGNED": "Livraison assignée",
+    "RESTAURANT_APPROVED": "Restaurant approuvé",
+    "RESTAURANT_REJECTED": "Restaurant refusé",
+    "SYSTEM": "Système"
+  },
+  "priority": {
+    "LOW": "Faible",
+    "NORMAL": "Normal",
+    "HIGH": "Élevé",
+    "URGENT": "Urgent"
+  },
+  "confirmDeleteAll": "Êtes-vous sûr de vouloir supprimer toutes les notifications ?",
+  "success": {
+    "markedRead": "Notification marquée comme lue",
+    "allMarkedRead": "Toutes les notifications marquées comme lues",
+    "deleted": "Notification supprimée",
+    "allDeleted": "Toutes les notifications supprimées"
+  },
+  "errors": {
+    "markReadFailed": "Impossible de marquer la notification comme lue",
+    "deleteFailed": "Impossible de supprimer la notification",
+    "loadFailed": "Impossible de charger les notifications"
+  }
+}

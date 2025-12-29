@@ -1,0 +1,143 @@
+{
+  "about": {
+    "title": "Informazioni su just-eat.ch",
+    "subtitle": "La piattaforma di consegna cibo preferita della Svizzera",
+    "heroText": "Colleghiamo gli amanti del cibo con i migliori ristoranti di tutta la Svizzera. Da Zurigo a Ginevra, da Berna a Lugano — i vostri piatti preferiti sono a pochi clic di distanza.",
+    "mission": {
+      "title": "La Nostra Missione",
+      "text": "Rendere ogni pasto un'esperienza semplice e piacevole. Collaboriamo con migliaia di ristoranti in tutti i cantoni svizzeri per offrirvi la più ampia selezione di cucine."
+    },
+    "values": {
+      "title": "I Nostri Valori",
+      "quality": {
+        "title": "Qualità",
+        "text": "Selezioniamo ristoranti partner che soddisfano i nostri elevati standard di qualità alimentare, igiene e soddisfazione del cliente."
+      },
+      "speed": {
+        "title": "Velocità",
+        "text": "Consegna rapida e affidabile affinché il vostro cibo arrivi caldo e fresco. La nostra logistica ottimizzata garantisce tempi di attesa minimi."
+      },
+      "choice": {
+        "title": "Scelta",
+        "text": "Migliaia di ristoranti in tutta la Svizzera, che offrono dalla cucina svizzera locale ai piatti internazionali preferiti."
+      },
+      "sustainability": {
+        "title": "Sostenibilità",
+        "text": "Ci impegniamo a ridurre il nostro impatto ambientale attraverso imballaggi ecologici e percorsi di consegna ottimizzati."
+      }
+    },
+    "stats": {
+      "restaurants": "5'000+ Ristoranti",
+      "cities": "200+ Città",
+      "cuisines": "50+ Cucine",
+      "deliveries": "1M+ Consegne"
+    },
+    "cta": {
+      "title": "Pronto per ordinare?",
+      "text": "Sfoglia i ristoranti vicino a te e scopri il tuo nuovo piatto preferito.",
+      "button": "Trova ristoranti"
+    }
+  },
+  "terms": {
+    "title": "Termini e Condizioni",
+    "lastUpdated": "Ultimo aggiornamento: Gennaio 2025",
+    "sections": {
+      "acceptance": {
+        "title": "1. Accettazione dei termini",
+        "text": "Accedendo e utilizzando just-eat.ch (la «Piattaforma»), accettate di essere vincolati da questi Termini e Condizioni. Se non siete d'accordo con una parte di questi termini, non potete utilizzare i nostri servizi."
+      },
+      "services": {
+        "title": "2. Descrizione dei servizi",
+        "text": "just-eat.ch fornisce una piattaforma online che collega i clienti con i ristoranti partner per ordinazioni e consegne di cibo. Agiamo come intermediari."
+      },
+      "account": {
+        "title": "3. Account utente",
+        "text": "Per effettuare ordini, dovete creare un account con informazioni accurate e complete. Siete responsabili della riservatezza delle vostre credenziali."
+      },
+      "orders": {
+        "title": "4. Ordini e pagamenti",
+        "text": "Tutti gli ordini effettuati tramite la Piattaforma costituiscono un contratto vincolante con il rispettivo ristorante. I prezzi mostrati includono l'IVA. Metodi di pagamento accettati: carte, TWINT, PostFinance e contanti alla consegna."
+      },
+      "delivery": {
+        "title": "5. Consegna",
+        "text": "I tempi di consegna stimati sono approssimativi e possono variare. Le spese di consegna vengono visualizzate prima della conferma dell'ordine."
+      },
+      "cancellation": {
+        "title": "6. Cancellazione e rimborsi",
+        "text": "Gli ordini possono essere cancellati prima della conferma del ristorante. I rimborsi per problemi di qualità vengono gestiti caso per caso."
+      },
+      "liability": {
+        "title": "7. Limitazione di responsabilità",
+        "text": "just-eat.ch non sarà responsabile per danni indiretti, incidentali o consequenziali derivanti dall'uso dei nostri servizi."
+      },
+      "governing": {
+        "title": "8. Legge applicabile",
+        "text": "Questi termini sono regolati dal diritto svizzero. Qualsiasi controversia sarà soggetta alla giurisdizione esclusiva dei tribunali di Zurigo, Svizzera."
+      }
+    }
+  },
+  "privacy": {
+    "title": "Informativa sulla Privacy",
+    "lastUpdated": "Ultimo aggiornamento: Gennaio 2025",
+    "intro": "In just-eat.ch, prendiamo sul serio la vostra privacy. Questa Informativa sulla Privacy spiega come raccogliamo, utilizziamo e proteggiamo i vostri dati personali in conformità con la legge svizzera sulla protezione dei dati (LPD) e il GDPR dell'UE.",
+    "sections": {
+      "collection": {
+        "title": "1. Dati raccolti",
+        "text": "Raccogliamo informazioni che fornite direttamente (nome, e-mail, telefono, indirizzo di consegna), automaticamente (indirizzo IP, informazioni sul dispositivo, cookie) e da terze parti."
+      },
+      "usage": {
+        "title": "2. Utilizzo dei vostri dati",
+        "text": "I vostri dati vengono utilizzati per elaborare e consegnare ordini, gestire il vostro account, migliorare i nostri servizi, inviare comunicazioni pertinenti e prevenire frodi."
+      },
+      "sharing": {
+        "title": "3. Condivisione dei dati",
+        "text": "Condividiamo i vostri dati con ristoranti partner, corrieri di consegna, processori di pagamento e fornitori di analisi (dati anonimizzati)."
+      },
+      "storage": {
+        "title": "4. Archiviazione e sicurezza",
+        "text": "I vostri dati sono archiviati su server sicuri in Svizzera e nello Spazio economico europeo. Implementiamo misure di sicurezza conformi agli standard del settore."
+      },
+      "rights": {
+        "title": "5. I vostri diritti",
+        "text": "Avete il diritto di accedere, correggere, cancellare o esportare i vostri dati personali. Potete opporvi a determinati trattamenti e revocare il consenso in qualsiasi momento."
+      },
+      "cookies": {
+        "title": "6. Cookie",
+        "text": "Utilizziamo cookie essenziali per la funzionalità del sito, cookie di prestazione per le analisi e cookie di preferenza per ricordare le vostre impostazioni."
+      },
+      "contact": {
+        "title": "7. Contatto",
+        "text": "Per domande sulla privacy, contattate il nostro Responsabile della Protezione dei Dati all'indirizzo privacy@justeat-clone.ch."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contattaci",
+    "subtitle": "Ci farebbe piacere avere tue notizie. Mettiti in contatto con il nostro team.",
+    "form": {
+      "name": "Nome completo",
+      "namePlaceholder": "Il tuo nome",
+      "email": "Indirizzo e-mail",
+      "emailPlaceholder": "tua.email@example.ch",
+      "subject": "Oggetto",
+      "subjectPlaceholder": "Come possiamo aiutarti?",
+      "message": "Messaggio",
+      "messagePlaceholder": "Raccontaci di più sulla tua richiesta...",
+      "submit": "Invia messaggio",
+      "sending": "Invio in corso...",
+      "success": "Messaggio inviato con successo! Ti risponderemo entro 24 ore.",
+      "error": "Invio del messaggio fallito. Per favore riprova."
+    },
+    "info": {
+      "title": "Altri modi per contattarci",
+      "email": "E-mail",
+      "emailValue": "support@justeat-clone.ch",
+      "phone": "Telefono",
+      "phoneValue": "+41 44 123 45 67",
+      "hours": "Orari di supporto",
+      "hoursValue": "Lun–Ven: 08:00–22:00, Sab–Dom: 10:00–20:00",
+      "address": "Indirizzo",
+      "addressValue": "just-eat.ch\nBahnhofstrasse 10\n8001 Zürich\nSvizzera"
+    }
+  }
+}

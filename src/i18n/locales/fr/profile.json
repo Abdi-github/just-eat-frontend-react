@@ -1,0 +1,63 @@
+{
+  "title": "Profil",
+  "subtitle": "Gérer les paramètres de votre compte",
+  "personalInfo": "Informations personnelles",
+  "personalInfoDescription": "Mettez à jour votre nom et vos coordonnées",
+  "firstName": "Prénom",
+  "lastName": "Nom",
+  "email": "E-mail",
+  "phone": "Numéro de téléphone",
+  "phonePlaceholder": "+41 XX XXX XX XX",
+  "preferredLanguage": "Langue préférée",
+  "saveChanges": "Enregistrer",
+  "saving": "Enregistrement...",
+  "profileUpdated": "Profil mis à jour avec succès.",
+  "profileUpdateError": "Échec de la mise à jour du profil.",
+  "avatar": {
+    "title": "Photo de profil",
+    "upload": "Télécharger une photo",
+    "remove": "Supprimer la photo",
+    "uploading": "Téléchargement...",
+    "uploaded": "Photo téléchargée avec succès.",
+    "removed": "Photo supprimée.",
+    "uploadError": "Échec du téléchargement de la photo.",
+    "removeError": "Échec de la suppression de la photo.",
+    "maxSize": "Taille maximale : 5 Mo",
+    "formats": "JPG, PNG ou WebP"
+  },
+  "password": {
+    "title": "Changer le mot de passe",
+    "description": "Mettez à jour votre mot de passe pour sécuriser votre compte",
+    "currentPassword": "Mot de passe actuel",
+    "newPassword": "Nouveau mot de passe",
+    "confirmPassword": "Confirmer le nouveau mot de passe",
+    "change": "Changer le mot de passe",
+    "changing": "Modification...",
+    "changed": "Mot de passe modifié avec succès.",
+    "changeError": "Échec du changement de mot de passe. Vérifiez votre mot de passe actuel.",
+    "requirements": "Au moins 8 caractères avec majuscule, minuscule, chiffre et caractère spécial",
+    "mismatch": "Les mots de passe ne correspondent pas"
+  },
+  "notifications": {
+    "title": "Préférences de notification",
+    "description": "Choisissez les notifications que vous souhaitez recevoir",
+    "emailOrderUpdates": "Mises à jour des commandes",
+    "emailOrderUpdatesDescription": "Recevoir des notifications par e-mail sur l'état de vos commandes",
+    "emailPromotions": "Promotions",
+    "emailPromotionsDescription": "Recevoir des e-mails sur les offres et promotions",
+    "emailNewsletter": "Newsletter",
+    "emailNewsletterDescription": "Recevoir notre newsletter hebdomadaire",
+    "pushEnabled": "Notifications push",
+    "pushEnabledDescription": "Recevoir des notifications push sur votre appareil",
+    "saved": "Préférences de notification enregistrées.",
+    "saveError": "Échec de l'enregistrement des préférences de notification."
+  },
+  "deactivate": {
+    "title": "Désactiver le compte",
+    "description": "Désactivez définitivement votre compte. Cette action est irréversible.",
+    "button": "Désactiver le compte",
+    "confirm": "Êtes-vous sûr de vouloir désactiver votre compte ? Vous perdrez l'accès à toutes vos données.",
+    "success": "Compte désactivé.",
+    "error": "Échec de la désactivation du compte."
+  }
+}

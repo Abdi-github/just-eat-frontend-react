@@ -1,0 +1,64 @@
+{
+  "title": "Meine Adressen",
+  "subtitle": "Lieferadressen verwalten",
+  "addAddress": "Adresse hinzufügen",
+  "editAddress": "Adresse bearbeiten",
+  "noAddresses": "Sie haben noch keine Adressen hinzugefügt.",
+  "noAddressesDescription": "Fügen Sie eine Lieferadresse hinzu, um den Bestellvorgang zu beschleunigen.",
+  "default": "Standard",
+  "setDefault": "Als Standard festlegen",
+  "delete": "Löschen",
+  "edit": "Bearbeiten",
+  "maxReached": "Maximal 10 Adressen erreicht.",
+  "form": {
+    "label": "Bezeichnung",
+    "labelPlaceholder": "z.B. Zuhause, Büro",
+    "street": "Strasse",
+    "streetPlaceholder": "Strassenname",
+    "streetNumber": "Nummer",
+    "streetNumberPlaceholder": "z.B. 12a",
+    "floor": "Stockwerk",
+    "floorPlaceholder": "z.B. 3. OG",
+    "postalCode": "Postleitzahl",
+    "postalCodePlaceholder": "z.B. 8001",
+    "city": "Stadt",
+    "cityPlaceholder": "Stadt auswählen",
+    "canton": "Kanton",
+    "cantonPlaceholder": "Kanton auswählen",
+    "selectCantonFirst": "Bitte zuerst einen Kanton wählen",
+    "instructions": "Lieferhinweise",
+    "instructionsPlaceholder": "z.B. Zweimal klingeln",
+    "isDefault": "Als Standardadresse festlegen",
+    "save": "Adresse speichern",
+    "saving": "Wird gespeichert...",
+    "cancel": "Abbrechen"
+  },
+  "success": {
+    "created": "Adresse erfolgreich hinzugefügt.",
+    "updated": "Adresse erfolgreich aktualisiert.",
+    "deleted": "Adresse erfolgreich gelöscht.",
+    "defaultSet": "Standardadresse aktualisiert."
+  },
+  "error": {
+    "createFailed": "Adresse konnte nicht hinzugefügt werden.",
+    "updateFailed": "Adresse konnte nicht aktualisiert werden.",
+    "deleteFailed": "Adresse konnte nicht gelöscht werden.",
+    "defaultFailed": "Standardadresse konnte nicht festgelegt werden."
+  },
+  "deleteConfirm": {
+    "title": "Adresse löschen",
+    "description": "Sind Sie sicher, dass Sie diese Adresse löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.",
+    "confirm": "Löschen",
+    "cancel": "Abbrechen"
+  },
+  "validation": {
+    "labelRequired": "Bezeichnung ist erforderlich",
+    "labelMax": "Bezeichnung darf maximal 50 Zeichen lang sein",
+    "streetRequired": "Strasse ist erforderlich",
+    "streetNumberRequired": "Hausnummer ist erforderlich",
+    "postalCodeRequired": "Postleitzahl ist erforderlich",
+    "postalCodeFormat": "Postleitzahl muss 4 Ziffern haben",
+    "cityRequired": "Stadt ist erforderlich",
+    "cantonRequired": "Kanton ist erforderlich"
+  }
+}

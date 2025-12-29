@@ -1,0 +1,112 @@
+{
+  "title": "Meine Bestellungen",
+  "orderHistory": "Bestellverlauf",
+  "noOrders": "Sie haben noch keine Bestellungen aufgegeben.",
+  "noOrdersDescription": "Wenn Sie eine Bestellung aufgeben, wird sie hier angezeigt.",
+  "browseRestaurants": "Restaurants durchsuchen",
+  "orderNumber": "Bestellung #{{number}}",
+  "placedAt": "Bestellt am {{date}}",
+  "items_one": "{{count}} Artikel",
+  "items_other": "{{count}} Artikel",
+  "reorder": "Erneut bestellen",
+  "viewDetails": "Details anzeigen",
+  "trackOrder": "Bestellung verfolgen",
+  "cancelOrder": "Bestellung stornieren",
+  "filters": {
+    "all": "Alle Bestellungen",
+    "active": "Aktiv",
+    "completed": "Abgeschlossen",
+    "cancelled": "Storniert"
+  },
+  "sort": {
+    "newest": "Neueste zuerst",
+    "oldest": "Älteste zuerst",
+    "highestTotal": "Höchster Betrag",
+    "lowestTotal": "Niedrigster Betrag"
+  },
+  "detail": {
+    "title": "Bestelldetails",
+    "orderNumber": "Bestellung #{{number}}",
+    "restaurant": "Restaurant",
+    "orderType": "Bestellart",
+    "delivery": "Lieferung",
+    "pickup": "Abholung",
+    "status": "Status",
+    "items": "Artikel",
+    "specialInstructions": "Besondere Hinweise",
+    "deliveryAddress": "Lieferadresse",
+    "floor": "Stockwerk {{floor}}",
+    "deliveryInstructions": "Lieferhinweise",
+    "courier": "Kurier",
+    "paymentMethod": "Zahlungsmethode",
+    "paymentStatus": "Zahlungsstatus",
+    "summary": "Bestellübersicht",
+    "subtotal": "Zwischensumme",
+    "deliveryFee": "Liefergebühr",
+    "serviceFee": "Servicegebühr",
+    "tip": "Trinkgeld",
+    "discount": "Rabatt",
+    "total": "Gesamt",
+    "free": "Kostenlos",
+    "backToOrders": "Zurück zu Bestellungen"
+  },
+  "cancel": {
+    "title": "Bestellung stornieren",
+    "description": "Sind Sie sicher, dass Sie diese Bestellung stornieren möchten? Diese Aktion kann nicht rückgängig gemacht werden.",
+    "reason": "Grund der Stornierung",
+    "reasonPlaceholder": "Bitte teilen Sie uns mit, warum Sie stornieren...",
+    "confirm": "Stornierung bestätigen",
+    "cancelling": "Wird storniert...",
+    "success": "Bestellung erfolgreich storniert.",
+    "error": "Stornierung fehlgeschlagen. Die Bestellung wird möglicherweise bereits zubereitet.",
+    "reasonRequired": "Bitte geben Sie einen Grund an (mindestens 3 Zeichen)."
+  },
+  "tracking": {
+    "title": "Bestellverfolgung",
+    "orderNumber": "Bestellung #{{number}}",
+    "estimatedDelivery": "Voraussichtliche Lieferung",
+    "liveTracking": "Live-Verfolgung",
+    "courierLocation": "Standort des Kuriers",
+    "lastUpdated": "Zuletzt aktualisiert {{time}}",
+    "pickupAddress": "Abholung",
+    "deliveryAddress": "Lieferung",
+    "noTrackingAvailable": "Tracking-Informationen sind noch nicht verfügbar.",
+    "orderDelivered": "Ihre Bestellung wurde geliefert!",
+    "deliveredAt": "Geliefert um {{time}}"
+  },
+  "timeline": {
+    "PLACED": "Bestellung aufgegeben",
+    "ACCEPTED": "Bestellung angenommen",
+    "REJECTED": "Bestellung abgelehnt",
+    "PREPARING": "Wird zubereitet",
+    "READY": "Bereit zur Abholung",
+    "PICKED_UP": "Abgeholt",
+    "IN_TRANSIT": "Unterwegs",
+    "DELIVERED": "Geliefert",
+    "CANCELLED": "Storniert"
+  },
+  "status": {
+    "PLACED": "Aufgegeben",
+    "ACCEPTED": "Angenommen",
+    "REJECTED": "Abgelehnt",
+    "PREPARING": "In Zubereitung",
+    "READY": "Bereit",
+    "PICKED_UP": "Abgeholt",
+    "IN_TRANSIT": "Unterwegs",
+    "DELIVERED": "Geliefert",
+    "CANCELLED": "Storniert"
+  },
+  "paymentMethods": {
+    "card": "Kreditkarte",
+    "twint": "TWINT",
+    "postfinance": "PostFinance",
+    "cash": "Barzahlung bei Lieferung"
+  },
+  "paymentStatus": {
+    "PENDING": "Ausstehend",
+    "PROCESSING": "Wird verarbeitet",
+    "PAID": "Bezahlt",
+    "FAILED": "Fehlgeschlagen",
+    "REFUNDED": "Erstattet"
+  }
+}

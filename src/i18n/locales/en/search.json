@@ -1,0 +1,69 @@
+{
+  "title": "Search Results",
+  "pageTitle": "Search \"{{query}}\"",
+  "pageTitleNoQuery": "Browse Restaurants",
+  "placeholder": "Search for restaurants or dishes...",
+  "locationPlaceholder": "Enter your address or city...",
+  "searchButton": "Search",
+  "resultsCount": "{{count}} restaurant found",
+  "resultsCount_other": "{{count}} restaurants found",
+  "noResults": "No results found",
+  "noResultsDescription": "We couldn't find any restaurants matching your search. Try adjusting your filters or search term.",
+  "tryAgain": "Clear search",
+  "showingResults": "Showing {{from}}–{{to}} of {{total}}",
+  "searchIn": "Search in {{location}}",
+  "suggestions": {
+    "title": "Suggestions",
+    "restaurants": "Restaurants",
+    "cuisines": "Cuisines",
+    "noSuggestions": "No suggestions found",
+    "typeToSearch": "Type at least 2 characters to search",
+    "viewAll": "View all results for \"{{query}}\""
+  },
+  "filters": {
+    "title": "Filters",
+    "cuisine": "Cuisine",
+    "allCuisines": "All cuisines",
+    "rating": "Minimum rating",
+    "anyRating": "Any rating",
+    "deliveryFee": "Max delivery fee",
+    "anyFee": "Any price",
+    "orderType": "Order type",
+    "all": "All",
+    "delivery": "Delivery",
+    "pickup": "Pickup",
+    "sortBy": "Sort by",
+    "sortOptions": {
+      "relevance": "Relevance",
+      "rating": "Highest rated",
+      "deliveryFee": "Lowest delivery fee",
+      "deliveryTime": "Fastest delivery",
+      "reviewCount": "Most reviewed",
+      "name": "Name (A–Z)"
+    },
+    "clearFilters": "Clear filters",
+    "activeFilters": "{{count}} filter active",
+    "activeFilters_other": "{{count}} filters active"
+  },
+  "location": {
+    "title": "Delivery location",
+    "change": "Change location",
+    "currentLocation": "Current location",
+    "popularCities": "Popular cities",
+    "searchPlaceholder": "City, postal code, or address...",
+    "noResults": "No locations found",
+    "cantons": "Cantons",
+    "cities": "Cities",
+    "restaurants_one": "{{count}} restaurant",
+    "restaurants_other": "{{count}} restaurants"
+  },
+  "card": {
+    "sponsored": "Sponsored",
+    "new": "New",
+    "closed": "Currently closed",
+    "minOrder": "Min. {{amount}}",
+    "freeDelivery": "Free delivery",
+    "delivery": "Delivery {{time}}",
+    "pickup": "Pickup"
+  }
+}

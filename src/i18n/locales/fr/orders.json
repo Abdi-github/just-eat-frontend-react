@@ -1,0 +1,112 @@
+{
+  "title": "Mes commandes",
+  "orderHistory": "Historique des commandes",
+  "noOrders": "Vous n'avez pas encore passé de commandes.",
+  "noOrdersDescription": "Lorsque vous passez une commande, elle apparaîtra ici.",
+  "browseRestaurants": "Parcourir les restaurants",
+  "orderNumber": "Commande #{{number}}",
+  "placedAt": "Commandé le {{date}}",
+  "items_one": "{{count}} article",
+  "items_other": "{{count}} articles",
+  "reorder": "Commander à nouveau",
+  "viewDetails": "Voir les détails",
+  "trackOrder": "Suivre la commande",
+  "cancelOrder": "Annuler la commande",
+  "filters": {
+    "all": "Toutes les commandes",
+    "active": "Actives",
+    "completed": "Terminées",
+    "cancelled": "Annulées"
+  },
+  "sort": {
+    "newest": "Plus récentes",
+    "oldest": "Plus anciennes",
+    "highestTotal": "Montant le plus élevé",
+    "lowestTotal": "Montant le plus bas"
+  },
+  "detail": {
+    "title": "Détails de la commande",
+    "orderNumber": "Commande #{{number}}",
+    "restaurant": "Restaurant",
+    "orderType": "Type de commande",
+    "delivery": "Livraison",
+    "pickup": "À emporter",
+    "status": "Statut",
+    "items": "Articles",
+    "specialInstructions": "Instructions spéciales",
+    "deliveryAddress": "Adresse de livraison",
+    "floor": "Étage {{floor}}",
+    "deliveryInstructions": "Instructions de livraison",
+    "courier": "Coursier",
+    "paymentMethod": "Mode de paiement",
+    "paymentStatus": "Statut du paiement",
+    "summary": "Résumé de la commande",
+    "subtotal": "Sous-total",
+    "deliveryFee": "Frais de livraison",
+    "serviceFee": "Frais de service",
+    "tip": "Pourboire",
+    "discount": "Réduction",
+    "total": "Total",
+    "free": "Gratuit",
+    "backToOrders": "Retour aux commandes"
+  },
+  "cancel": {
+    "title": "Annuler la commande",
+    "description": "Êtes-vous sûr de vouloir annuler cette commande ? Cette action est irréversible.",
+    "reason": "Raison de l'annulation",
+    "reasonPlaceholder": "Veuillez nous indiquer pourquoi vous annulez...",
+    "confirm": "Confirmer l'annulation",
+    "cancelling": "Annulation en cours...",
+    "success": "Commande annulée avec succès.",
+    "error": "Échec de l'annulation. La commande est peut-être déjà en préparation.",
+    "reasonRequired": "Veuillez fournir une raison (au moins 3 caractères)."
+  },
+  "tracking": {
+    "title": "Suivi de commande",
+    "orderNumber": "Commande #{{number}}",
+    "estimatedDelivery": "Livraison estimée",
+    "liveTracking": "Suivi en direct",
+    "courierLocation": "Position du coursier",
+    "lastUpdated": "Mis à jour {{time}}",
+    "pickupAddress": "Enlèvement",
+    "deliveryAddress": "Livraison",
+    "noTrackingAvailable": "Les informations de suivi ne sont pas encore disponibles.",
+    "orderDelivered": "Votre commande a été livrée !",
+    "deliveredAt": "Livrée à {{time}}"
+  },
+  "timeline": {
+    "PLACED": "Commande passée",
+    "ACCEPTED": "Commande acceptée",
+    "REJECTED": "Commande refusée",
+    "PREPARING": "En préparation",
+    "READY": "Prête à emporter",
+    "PICKED_UP": "Récupérée",
+    "IN_TRANSIT": "En route",
+    "DELIVERED": "Livrée",
+    "CANCELLED": "Annulée"
+  },
+  "status": {
+    "PLACED": "Passée",
+    "ACCEPTED": "Acceptée",
+    "REJECTED": "Refusée",
+    "PREPARING": "En préparation",
+    "READY": "Prête",
+    "PICKED_UP": "Récupérée",
+    "IN_TRANSIT": "En route",
+    "DELIVERED": "Livrée",
+    "CANCELLED": "Annulée"
+  },
+  "paymentMethods": {
+    "card": "Carte de crédit",
+    "twint": "TWINT",
+    "postfinance": "PostFinance",
+    "cash": "Paiement à la livraison"
+  },
+  "paymentStatus": {
+    "PENDING": "En attente",
+    "PROCESSING": "En traitement",
+    "PAID": "Payé",
+    "FAILED": "Échoué",
+    "REFUNDED": "Remboursé"
+  }
+}

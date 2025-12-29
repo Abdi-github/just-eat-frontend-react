@@ -1,0 +1,49 @@
+{
+  "title": "My Reviews",
+  "subtitle": "Reviews you've written",
+  "noReviews": "You haven't written any reviews yet.",
+  "noReviewsDescription": "After a delivery, you can leave a review for the restaurant.",
+  "browseOrders": "View Orders",
+  "writeReview": "Write a Review",
+  "editReview": "Edit Review",
+  "deleteReview": "Delete Review",
+  "rating": "Rating",
+  "comment": "Comment",
+  "commentPlaceholder": "Share your experience...",
+  "submitReview": "Submit Review",
+  "submitting": "Submitting...",
+  "updateReview": "Update Review",
+  "updating": "Updating...",
+  "form": {
+    "restaurant": "Restaurant",
+    "order": "Order",
+    "ratingRequired": "Please select a rating",
+    "ratingLabel": "How was your experience?",
+    "stars_one": "{{count}} star",
+    "stars_other": "{{count}} stars"
+  },
+  "success": {
+    "created": "Review submitted successfully.",
+    "updated": "Review updated successfully.",
+    "deleted": "Review deleted successfully."
+  },
+  "error": {
+    "createFailed": "Failed to submit review.",
+    "updateFailed": "Failed to update review.",
+    "deleteFailed": "Failed to delete review."
+  },
+  "deleteConfirm": {
+    "title": "Delete Review",
+    "description": "Are you sure you want to delete this review? This action cannot be undone.",
+    "confirm": "Delete",
+    "cancel": "Cancel"
+  },
+  "status": {
+    "PENDING": "Pending",
+    "APPROVED": "Approved",
+    "REJECTED": "Rejected",
+    "FLAGGED": "Flagged"
+  },
+  "restaurantReply": "Restaurant Reply",
+  "verified": "Verified Order"
+}

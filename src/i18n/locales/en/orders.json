@@ -1,0 +1,112 @@
+{
+  "title": "My Orders",
+  "orderHistory": "Order History",
+  "noOrders": "You haven't placed any orders yet.",
+  "noOrdersDescription": "When you place an order, it will appear here.",
+  "browseRestaurants": "Browse Restaurants",
+  "orderNumber": "Order #{{number}}",
+  "placedAt": "Placed on {{date}}",
+  "items_one": "{{count}} item",
+  "items_other": "{{count}} items",
+  "reorder": "Reorder",
+  "viewDetails": "View Details",
+  "trackOrder": "Track Order",
+  "cancelOrder": "Cancel Order",
+  "filters": {
+    "all": "All Orders",
+    "active": "Active",
+    "completed": "Completed",
+    "cancelled": "Cancelled"
+  },
+  "sort": {
+    "newest": "Newest First",
+    "oldest": "Oldest First",
+    "highestTotal": "Highest Total",
+    "lowestTotal": "Lowest Total"
+  },
+  "detail": {
+    "title": "Order Details",
+    "orderNumber": "Order #{{number}}",
+    "restaurant": "Restaurant",
+    "orderType": "Order Type",
+    "delivery": "Delivery",
+    "pickup": "Pickup",
+    "status": "Status",
+    "items": "Items",
+    "specialInstructions": "Special Instructions",
+    "deliveryAddress": "Delivery Address",
+    "floor": "Floor {{floor}}",
+    "deliveryInstructions": "Delivery Instructions",
+    "courier": "Courier",
+    "paymentMethod": "Payment Method",
+    "paymentStatus": "Payment Status",
+    "summary": "Order Summary",
+    "subtotal": "Subtotal",
+    "deliveryFee": "Delivery Fee",
+    "serviceFee": "Service Fee",
+    "tip": "Tip",
+    "discount": "Discount",
+    "total": "Total",
+    "free": "Free",
+    "backToOrders": "Back to Orders"
+  },
+  "cancel": {
+    "title": "Cancel Order",
+    "description": "Are you sure you want to cancel this order? This action cannot be undone.",
+    "reason": "Reason for cancellation",
+    "reasonPlaceholder": "Please tell us why you're cancelling...",
+    "confirm": "Confirm Cancellation",
+    "cancelling": "Cancelling...",
+    "success": "Order cancelled successfully.",
+    "error": "Failed to cancel order. It may have already been prepared.",
+    "reasonRequired": "Please provide a reason (at least 3 characters)."
+  },
+  "tracking": {
+    "title": "Order Tracking",
+    "orderNumber": "Order #{{number}}",
+    "estimatedDelivery": "Estimated Delivery",
+    "liveTracking": "Live Tracking",
+    "courierLocation": "Courier Location",
+    "lastUpdated": "Last updated {{time}}",
+    "pickupAddress": "Pickup",
+    "deliveryAddress": "Delivery",
+    "noTrackingAvailable": "Tracking information is not yet available.",
+    "orderDelivered": "Your order has been delivered!",
+    "deliveredAt": "Delivered at {{time}}"
+  },
+  "timeline": {
+    "PLACED": "Order Placed",
+    "ACCEPTED": "Order Accepted",
+    "REJECTED": "Order Rejected",
+    "PREPARING": "Preparing",
+    "READY": "Ready for Pickup",
+    "PICKED_UP": "Picked Up",
+    "IN_TRANSIT": "On the Way",
+    "DELIVERED": "Delivered",
+    "CANCELLED": "Cancelled"
+  },
+  "status": {
+    "PLACED": "Placed",
+    "ACCEPTED": "Accepted",
+    "REJECTED": "Rejected",
+    "PREPARING": "Preparing",
+    "READY": "Ready",
+    "PICKED_UP": "Picked Up",
+    "IN_TRANSIT": "In Transit",
+    "DELIVERED": "Delivered",
+    "CANCELLED": "Cancelled"
+  },
+  "paymentMethods": {
+    "card": "Credit Card",
+    "twint": "TWINT",
+    "postfinance": "PostFinance",
+    "cash": "Cash on Delivery"
+  },
+  "paymentStatus": {
+    "PENDING": "Pending",
+    "PROCESSING": "Processing",
+    "PAID": "Paid",
+    "FAILED": "Failed",
+    "REFUNDED": "Refunded"
+  }
+}

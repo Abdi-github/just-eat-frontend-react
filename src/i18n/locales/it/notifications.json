@@ -1,0 +1,64 @@
+{
+  "title": "Notifiche",
+  "subtitle": "Resta aggiornato sui tuoi ordini e il tuo account",
+  "empty": "Nessuna notifica",
+  "emptyDesc": "Non hai notifiche al momento.",
+  "markAllRead": "Segna tutte come lette",
+  "deleteAll": "Elimina tutte",
+  "markRead": "Segna come letta",
+  "delete": "Elimina",
+  "unread": "Non lette",
+  "all": "Tutte",
+  "unreadCount": "{{count}} non lette",
+  "justNow": "Adesso",
+  "minutesAgo": "{{count}} min fa",
+  "hoursAgo": "{{count}}h fa",
+  "daysAgo": "{{count}}g fa",
+  "filters": {
+    "all": "Tutte",
+    "unread": "Solo non lette",
+    "orders": "Ordini",
+    "promotions": "Promozioni",
+    "system": "Sistema"
+  },
+  "types": {
+    "ORDER_PLACED": "Ordine effettuato",
+    "ORDER_ACCEPTED": "Ordine accettato",
+    "ORDER_REJECTED": "Ordine rifiutato",
+    "ORDER_PREPARING": "In preparazione",
+    "ORDER_READY": "Ordine pronto",
+    "ORDER_PICKED_UP": "Ritirato",
+    "ORDER_IN_TRANSIT": "In transito",
+    "ORDER_DELIVERED": "Consegnato",
+    "ORDER_CANCELLED": "Annullato",
+    "WELCOME": "Benvenuto",
+    "EMAIL_VERIFIED": "Email verificata",
+    "PASSWORD_RESET": "Reimpostazione password",
+    "REVIEW_REPLY": "Risposta alla recensione",
+    "REVIEW_APPROVED": "Recensione approvata",
+    "PROMOTION_NEW": "Nuova promozione",
+    "STAMP_COMPLETED": "Carta fedeltà completata",
+    "DELIVERY_ASSIGNED": "Consegna assegnata",
+    "RESTAURANT_APPROVED": "Ristorante approvato",
+    "RESTAURANT_REJECTED": "Ristorante rifiutato",
+    "SYSTEM": "Sistema"
+  },
+  "priority": {
+    "LOW": "Bassa",
+    "NORMAL": "Normale",
+    "HIGH": "Alta",
+    "URGENT": "Urgente"
+  },
+  "confirmDeleteAll": "Sei sicuro di voler eliminare tutte le notifiche?",
+  "success": {
+    "markedRead": "Notifica segnata come letta",
+    "allMarkedRead": "Tutte le notifiche segnate come lette",
+    "deleted": "Notifica eliminata",
+    "allDeleted": "Tutte le notifiche eliminate"
+  },
+  "errors": {
+    "markReadFailed": "Impossibile segnare la notifica come letta",
+    "deleteFailed": "Impossibile eliminare la notifica",
+    "loadFailed": "Impossibile caricare le notifiche"
+  }
+}

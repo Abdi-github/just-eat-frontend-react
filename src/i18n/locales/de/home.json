@@ -1,0 +1,53 @@
+{
+  "hero": {
+    "title": "Hunger? Du bist am richtigen Ort.",
+    "subtitle": "Bestelle Essen von den besten Restaurants in deiner Nähe",
+    "searchPlaceholder": "Adresse oder Postleitzahl eingeben",
+    "delivery": "Lieferung",
+    "pickup": "Abholung",
+    "findRestaurants": "Restaurants finden",
+    "or": "oder",
+    "useMyLocation": "Meinen Standort verwenden",
+    "popularCities": "Beliebte Städte"
+  },
+  "cuisines": {
+    "title": "Beliebte Küchen",
+    "subtitle": "Entdecke unsere beliebtesten Kategorien",
+    "viewAll": "Alle Küchen anzeigen",
+    "viewLess": "Weniger anzeigen",
+    "restaurants": "{{count}} Restaurants"
+  },
+  "topRestaurants": {
+    "title": "Top-Restaurants in deiner Nähe",
+    "subtitle": "Bestbewertete Restaurants, die in deine Gegend liefern",
+    "titleInCity": "Top Restaurants in {{city}}",
+    "subtitleInCity": "Basierend auf Ihrem Standort in {{city}}",
+    "viewAll": "Alle Restaurants anzeigen",
+    "deliveryFee": "Lieferung {{fee}}",
+    "freeDelivery": "Gratis Lieferung",
+    "minOrder": "Min. {{amount}}",
+    "rating": "{{rating}}",
+    "reviews": "({{count}})",
+    "deliveryTime": "{{min}}–{{max}} Min.",
+    "featured": "Empfohlen"
+  },
+  "howItWorks": {
+    "title": "So funktioniert's",
+    "subtitle": "Bestelle Essen in 3 einfachen Schritten",
+    "step1Title": "Wähle dein Restaurant",
+    "step1Description": "Durchstöbere hunderte Restaurants und Küchen in deiner Umgebung",
+    "step2Title": "Wähle dein Gericht",
+    "step2Description": "Wähle aus einer grossen Vielfalt an Gerichten und passe deine Bestellung an",
+    "step3Title": "Geniesse dein Essen",
+    "step3Description": "Verfolge deine Lieferung in Echtzeit und geniesse dein Essen zu Hause"
+  },
+  "appPromotion": {
+    "title": "Unterwegs bestellen",
+    "subtitle": "Lade die just-eat.ch App herunter für ein besseres Bestellerlebnis",
+    "feature1": "Exklusive App-Angebote",
+    "feature2": "Lieferung in Echtzeit verfolgen",
+    "feature3": "Schnelle Nachbestellung deiner Favoriten",
+    "downloadOnAppStore": "Im App Store laden",
+    "getOnGooglePlay": "Bei Google Play erhältlich"
+  }
+}

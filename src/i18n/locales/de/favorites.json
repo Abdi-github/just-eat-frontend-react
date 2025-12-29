@@ -1,0 +1,18 @@
+{
+  "title": "Meine Favoriten",
+  "subtitle": "Ihre gespeicherten Restaurants",
+  "noFavorites": "Sie haben noch keine Favoriten gespeichert.",
+  "noFavoritesDescription": "Tippen Sie auf das Herz-Symbol bei einem Restaurant, um es hier zu speichern.",
+  "browseRestaurants": "Restaurants durchsuchen",
+  "remove": "Entfernen",
+  "removed": "Aus Favoriten entfernt.",
+  "added": "Zu Favoriten hinzugefügt.",
+  "removeError": "Favoriten konnten nicht aktualisiert werden.",
+  "delivery": "Lieferung",
+  "pickup": "Abholung",
+  "closed": "Geschlossen",
+  "rating": "{{rating}} ({{count}} Bewertungen)",
+  "deliveryFee": "Lieferung {{fee}}",
+  "deliveryFree": "Kostenlose Lieferung",
+  "deliveryTime": "{{min}}–{{max}} Min."
+}

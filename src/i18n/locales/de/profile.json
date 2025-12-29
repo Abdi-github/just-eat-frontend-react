@@ -1,0 +1,63 @@
+{
+  "title": "Profil",
+  "subtitle": "Kontoeinstellungen verwalten",
+  "personalInfo": "Persönliche Informationen",
+  "personalInfoDescription": "Aktualisieren Sie Ihren Namen und Ihre Kontaktdaten",
+  "firstName": "Vorname",
+  "lastName": "Nachname",
+  "email": "E-Mail",
+  "phone": "Telefonnummer",
+  "phonePlaceholder": "+41 XX XXX XX XX",
+  "preferredLanguage": "Bevorzugte Sprache",
+  "saveChanges": "Änderungen speichern",
+  "saving": "Wird gespeichert...",
+  "profileUpdated": "Profil erfolgreich aktualisiert.",
+  "profileUpdateError": "Profil konnte nicht aktualisiert werden.",
+  "avatar": {
+    "title": "Profilbild",
+    "upload": "Foto hochladen",
+    "remove": "Foto entfernen",
+    "uploading": "Wird hochgeladen...",
+    "uploaded": "Foto erfolgreich hochgeladen.",
+    "removed": "Foto entfernt.",
+    "uploadError": "Foto konnte nicht hochgeladen werden.",
+    "removeError": "Foto konnte nicht entfernt werden.",
+    "maxSize": "Maximale Dateigrösse: 5MB",
+    "formats": "JPG, PNG oder WebP"
+  },
+  "password": {
+    "title": "Passwort ändern",
+    "description": "Aktualisieren Sie Ihr Passwort, um Ihr Konto zu schützen",
+    "currentPassword": "Aktuelles Passwort",
+    "newPassword": "Neues Passwort",
+    "confirmPassword": "Neues Passwort bestätigen",
+    "change": "Passwort ändern",
+    "changing": "Wird geändert...",
+    "changed": "Passwort erfolgreich geändert.",
+    "changeError": "Passwort konnte nicht geändert werden. Bitte prüfen Sie Ihr aktuelles Passwort.",
+    "requirements": "Mindestens 8 Zeichen mit Gross-/Kleinbuchstaben, Zahl und Sonderzeichen",
+    "mismatch": "Passwörter stimmen nicht überein"
+  },
+  "notifications": {
+    "title": "Benachrichtigungseinstellungen",
+    "description": "Wählen Sie, welche Benachrichtigungen Sie erhalten möchten",
+    "emailOrderUpdates": "Bestellaktualisierungen",
+    "emailOrderUpdatesDescription": "E-Mail-Benachrichtigungen über Ihren Bestellstatus erhalten",
+    "emailPromotions": "Aktionen",
+    "emailPromotionsDescription": "E-Mails über Angebote und Aktionen erhalten",
+    "emailNewsletter": "Newsletter",
+    "emailNewsletterDescription": "Unseren wöchentlichen Newsletter erhalten",
+    "pushEnabled": "Push-Benachrichtigungen",
+    "pushEnabledDescription": "Push-Benachrichtigungen auf Ihrem Gerät erhalten",
+    "saved": "Benachrichtigungseinstellungen gespeichert.",
+    "saveError": "Benachrichtigungseinstellungen konnten nicht gespeichert werden."
+  },
+  "deactivate": {
+    "title": "Konto deaktivieren",
+    "description": "Ihr Konto dauerhaft deaktivieren. Diese Aktion kann nicht rückgängig gemacht werden.",
+    "button": "Konto deaktivieren",
+    "confirm": "Sind Sie sicher, dass Sie Ihr Konto deaktivieren möchten? Sie verlieren den Zugriff auf alle Ihre Daten.",
+    "success": "Konto deaktiviert.",
+    "error": "Konto konnte nicht deaktiviert werden."
+  }
+}

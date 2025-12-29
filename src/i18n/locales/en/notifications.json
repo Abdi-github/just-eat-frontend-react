@@ -1,0 +1,64 @@
+{
+  "title": "Notifications",
+  "subtitle": "Stay updated on your orders and account",
+  "empty": "No notifications",
+  "emptyDesc": "You have no notifications at the moment.",
+  "markAllRead": "Mark all as read",
+  "deleteAll": "Delete all",
+  "markRead": "Mark as read",
+  "delete": "Delete",
+  "unread": "Unread",
+  "all": "All",
+  "unreadCount": "{{count}} unread",
+  "justNow": "Just now",
+  "minutesAgo": "{{count}} min ago",
+  "hoursAgo": "{{count}}h ago",
+  "daysAgo": "{{count}}d ago",
+  "filters": {
+    "all": "All",
+    "unread": "Unread only",
+    "orders": "Orders",
+    "promotions": "Promotions",
+    "system": "System"
+  },
+  "types": {
+    "ORDER_PLACED": "Order Placed",
+    "ORDER_ACCEPTED": "Order Accepted",
+    "ORDER_REJECTED": "Order Rejected",
+    "ORDER_PREPARING": "Preparing",
+    "ORDER_READY": "Order Ready",
+    "ORDER_PICKED_UP": "Picked Up",
+    "ORDER_IN_TRANSIT": "In Transit",
+    "ORDER_DELIVERED": "Delivered",
+    "ORDER_CANCELLED": "Cancelled",
+    "WELCOME": "Welcome",
+    "EMAIL_VERIFIED": "Email Verified",
+    "PASSWORD_RESET": "Password Reset",
+    "REVIEW_REPLY": "Review Reply",
+    "REVIEW_APPROVED": "Review Approved",
+    "PROMOTION_NEW": "New Promotion",
+    "STAMP_COMPLETED": "Stamp Card Complete",
+    "DELIVERY_ASSIGNED": "Delivery Assigned",
+    "RESTAURANT_APPROVED": "Restaurant Approved",
+    "RESTAURANT_REJECTED": "Restaurant Rejected",
+    "SYSTEM": "System"
+  },
+  "priority": {
+    "LOW": "Low",
+    "NORMAL": "Normal",
+    "HIGH": "High",
+    "URGENT": "Urgent"
+  },
+  "confirmDeleteAll": "Are you sure you want to delete all notifications?",
+  "success": {
+    "markedRead": "Notification marked as read",
+    "allMarkedRead": "All notifications marked as read",
+    "deleted": "Notification deleted",
+    "allDeleted": "All notifications deleted"
+  },
+  "errors": {
+    "markReadFailed": "Failed to mark notification as read",
+    "deleteFailed": "Failed to delete notification",
+    "loadFailed": "Failed to load notifications"
+  }
+}

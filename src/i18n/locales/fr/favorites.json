@@ -1,0 +1,18 @@
+{
+  "title": "Mes favoris",
+  "subtitle": "Vos restaurants enregistrés",
+  "noFavorites": "Vous n'avez pas encore de favoris.",
+  "noFavoritesDescription": "Appuyez sur l'icône cœur d'un restaurant pour l'enregistrer ici.",
+  "browseRestaurants": "Parcourir les restaurants",
+  "remove": "Supprimer",
+  "removed": "Retiré des favoris.",
+  "added": "Ajouté aux favoris.",
+  "removeError": "Impossible de mettre à jour les favoris.",
+  "delivery": "Livraison",
+  "pickup": "À emporter",
+  "closed": "Fermé",
+  "rating": "{{rating}} ({{count}} avis)",
+  "deliveryFee": "Livraison {{fee}}",
+  "deliveryFree": "Livraison gratuite",
+  "deliveryTime": "{{min}}–{{max}} min"
+}

@@ -1,0 +1,69 @@
+{
+  "title": "Risultati della ricerca",
+  "pageTitle": "Cerca \"{{query}}\"",
+  "pageTitleNoQuery": "Sfoglia ristoranti",
+  "placeholder": "Cerca ristoranti o piatti...",
+  "locationPlaceholder": "Inserisci il tuo indirizzo o città...",
+  "searchButton": "Cerca",
+  "resultsCount": "{{count}} ristorante trovato",
+  "resultsCount_other": "{{count}} ristoranti trovati",
+  "noResults": "Nessun risultato trovato",
+  "noResultsDescription": "Non abbiamo trovato ristoranti corrispondenti alla tua ricerca. Prova a modificare i filtri o il termine di ricerca.",
+  "tryAgain": "Cancella ricerca",
+  "showingResults": "Mostrando {{from}}–{{to}} di {{total}}",
+  "searchIn": "Cerca in {{location}}",
+  "suggestions": {
+    "title": "Suggerimenti",
+    "restaurants": "Ristoranti",
+    "cuisines": "Cucine",
+    "noSuggestions": "Nessun suggerimento trovato",
+    "typeToSearch": "Digita almeno 2 caratteri per cercare",
+    "viewAll": "Mostra tutti i risultati per \"{{query}}\""
+  },
+  "filters": {
+    "title": "Filtri",
+    "cuisine": "Cucina",
+    "allCuisines": "Tutte le cucine",
+    "rating": "Valutazione minima",
+    "anyRating": "Qualsiasi valutazione",
+    "deliveryFee": "Costo di consegna max.",
+    "anyFee": "Qualsiasi prezzo",
+    "orderType": "Tipo di ordine",
+    "all": "Tutti",
+    "delivery": "Consegna",
+    "pickup": "Ritiro",
+    "sortBy": "Ordina per",
+    "sortOptions": {
+      "relevance": "Rilevanza",
+      "rating": "Valutazione più alta",
+      "deliveryFee": "Costo di consegna più basso",
+      "deliveryTime": "Consegna più veloce",
+      "reviewCount": "Più recensioni",
+      "name": "Nome (A–Z)"
+    },
+    "clearFilters": "Cancella filtri",
+    "activeFilters": "{{count}} filtro attivo",
+    "activeFilters_other": "{{count}} filtri attivi"
+  },
+  "location": {
+    "title": "Luogo di consegna",
+    "change": "Cambia luogo",
+    "currentLocation": "Posizione attuale",
+    "popularCities": "Città popolari",
+    "searchPlaceholder": "Città, codice postale o indirizzo...",
+    "noResults": "Nessun luogo trovato",
+    "cantons": "Cantoni",
+    "cities": "Città",
+    "restaurants_one": "{{count}} ristorante",
+    "restaurants_other": "{{count}} ristoranti"
+  },
+  "card": {
+    "sponsored": "Sponsorizzato",
+    "new": "Nuovo",
+    "closed": "Attualmente chiuso",
+    "minOrder": "Min. {{amount}}",
+    "freeDelivery": "Consegna gratuita",
+    "delivery": "Consegna {{time}}",
+    "pickup": "Ritiro"
+  }
+}

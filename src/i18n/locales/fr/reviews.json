@@ -1,0 +1,49 @@
+{
+  "title": "Mes avis",
+  "subtitle": "Les avis que vous avez rédigés",
+  "noReviews": "Vous n'avez pas encore rédigé d'avis.",
+  "noReviewsDescription": "Après une livraison, vous pouvez laisser un avis pour le restaurant.",
+  "browseOrders": "Voir les commandes",
+  "writeReview": "Rédiger un avis",
+  "editReview": "Modifier l'avis",
+  "deleteReview": "Supprimer l'avis",
+  "rating": "Note",
+  "comment": "Commentaire",
+  "commentPlaceholder": "Partagez votre expérience...",
+  "submitReview": "Soumettre l'avis",
+  "submitting": "Envoi en cours...",
+  "updateReview": "Mettre à jour l'avis",
+  "updating": "Mise à jour...",
+  "form": {
+    "restaurant": "Restaurant",
+    "order": "Commande",
+    "ratingRequired": "Veuillez sélectionner une note",
+    "ratingLabel": "Comment était votre expérience ?",
+    "stars_one": "{{count}} étoile",
+    "stars_other": "{{count}} étoiles"
+  },
+  "success": {
+    "created": "Avis soumis avec succès.",
+    "updated": "Avis mis à jour avec succès.",
+    "deleted": "Avis supprimé avec succès."
+  },
+  "error": {
+    "createFailed": "Impossible de soumettre l'avis.",
+    "updateFailed": "Impossible de mettre à jour l'avis.",
+    "deleteFailed": "Impossible de supprimer l'avis."
+  },
+  "deleteConfirm": {
+    "title": "Supprimer l'avis",
+    "description": "Êtes-vous sûr de vouloir supprimer cet avis ? Cette action est irréversible.",
+    "confirm": "Supprimer",
+    "cancel": "Annuler"
+  },
+  "status": {
+    "PENDING": "En attente",
+    "APPROVED": "Approuvé",
+    "REJECTED": "Rejeté",
+    "FLAGGED": "Signalé"
+  },
+  "restaurantReply": "Réponse du restaurant",
+  "verified": "Commande vérifiée"
+}

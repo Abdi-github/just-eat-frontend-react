@@ -1,0 +1,143 @@
+{
+  "about": {
+    "title": "About just-eat.ch",
+    "subtitle": "Switzerland's favorite food delivery platform",
+    "heroText": "We connect food lovers with the best restaurants across Switzerland. From Zürich to Genève, Bern to Lugano — your favorite meals are just a few clicks away.",
+    "mission": {
+      "title": "Our Mission",
+      "text": "To make every meal an easy, enjoyable experience. We partner with thousands of restaurants across all Swiss cantons to bring you the widest selection of cuisines, from traditional Rösti to international delights."
+    },
+    "values": {
+      "title": "Our Values",
+      "quality": {
+        "title": "Quality",
+        "text": "We curate partner restaurants that meet our high standards for food quality, hygiene, and customer satisfaction."
+      },
+      "speed": {
+        "title": "Speed",
+        "text": "Fast, reliable delivery so your food arrives hot and fresh. Our optimized logistics ensure minimal wait times."
+      },
+      "choice": {
+        "title": "Choice",
+        "text": "Thousands of restaurants across Switzerland, offering everything from local Swiss cuisine to international favorites."
+      },
+      "sustainability": {
+        "title": "Sustainability",
+        "text": "We're committed to reducing our environmental impact through eco-friendly packaging and optimized delivery routes."
+      }
+    },
+    "stats": {
+      "restaurants": "5,000+ Restaurants",
+      "cities": "200+ Cities",
+      "cuisines": "50+ Cuisines",
+      "deliveries": "1M+ Deliveries"
+    },
+    "cta": {
+      "title": "Ready to order?",
+      "text": "Browse restaurants near you and discover your new favorite meal.",
+      "button": "Find Restaurants"
+    }
+  },
+  "terms": {
+    "title": "Terms & Conditions",
+    "lastUpdated": "Last updated: January 2025",
+    "sections": {
+      "acceptance": {
+        "title": "1. Acceptance of Terms",
+        "text": "By accessing and using just-eat.ch (the \"Platform\"), you agree to be bound by these Terms and Conditions. If you do not agree with any part of these terms, you may not use our services."
+      },
+      "services": {
+        "title": "2. Description of Services",
+        "text": "just-eat.ch provides an online platform connecting customers with restaurant partners for food ordering and delivery services. We act as an intermediary and are not directly responsible for the preparation or quality of food, which remains the responsibility of the restaurant partner."
+      },
+      "account": {
+        "title": "3. User Accounts",
+        "text": "To place orders, you must create an account with accurate and complete information. You are responsible for maintaining the con­fidentiality of your account credentials and for all activities that occur under your account."
+      },
+      "orders": {
+        "title": "4. Orders and Payments",
+        "text": "All orders placed through the Platform constitute a binding contract with the respective restaurant. Prices displayed include VAT where applicable. Payment methods accepted include credit/debit cards, TWINT, PostFinance, and cash on delivery where available."
+      },
+      "delivery": {
+        "title": "5. Delivery",
+        "text": "Estimated delivery times are approximate and may vary based on distance, order volume, and other factors. Delivery fees are displayed before order confirmation. We strive to deliver your order within the estimated timeframe."
+      },
+      "cancellation": {
+        "title": "6. Cancellation and Refunds",
+        "text": "Orders may be cancelled before the restaurant confirms acceptance. Once a restaurant has started preparing your order, cancellations may not be possible. Refunds for quality issues are handled on a case-by-case basis."
+      },
+      "liability": {
+        "title": "7. Limitation of Liability",
+        "text": "just-eat.ch shall not be liable for any indirect, incidental, or consequential damages arising from the use of our services. Our total liability shall not exceed the amount paid for the specific order in question."
+      },
+      "governing": {
+        "title": "8. Governing Law",
+        "text": "These Terms shall be governed by and construed in accordance with the laws of Switzerland. Any disputes shall be subject to the exclusive jurisdiction of the courts of Zürich, Switzerland."
+      }
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: January 2025",
+    "intro": "At just-eat.ch, we take your privacy seriously. This Privacy Policy explains how we collect, use, and protect your personal data in compliance with the Swiss Federal Data Protection Act (FADP) and the EU General Data Protection Regulation (GDPR).",
+    "sections": {
+      "collection": {
+        "title": "1. Data We Collect",
+        "text": "We collect information you provide directly (name, email, phone, delivery address), automatically (IP address, device info, cookies), and from third parties (payment processors, delivery partners)."
+      },
+      "usage": {
+        "title": "2. How We Use Your Data",
+        "text": "Your data is used to process and deliver orders, manage your account, improve our services, send relevant communications (with consent), prevent fraud, and comply with legal obligations."
+      },
+      "sharing": {
+        "title": "3. Data Sharing",
+        "text": "We share your data with restaurant partners (to fulfill orders), delivery couriers (delivery address and contact), payment processors (payment information), and analytics providers (anonymized usage data)."
+      },
+      "storage": {
+        "title": "4. Data Storage and Security",
+        "text": "Your data is stored on secure servers within Switzerland and the European Economic Area. We implement industry-standard security measures including encryption, access controls, and regular security audits."
+      },
+      "rights": {
+        "title": "5. Your Rights",
+        "text": "You have the right to access, correct, delete, or export your personal data. You can also object to certain processing activities and withdraw consent at any time. To exercise these rights, contact our privacy team."
+      },
+      "cookies": {
+        "title": "6. Cookies",
+        "text": "We use essential cookies for site functionality, performance cookies for analytics, and preference cookies to remember your settings. You can manage cookie preferences through your browser settings."
+      },
+      "contact": {
+        "title": "7. Contact",
+        "text": "For privacy-related inquiries, contact our Data Protection Officer at privacy@justeat-clone.ch or write to: just-eat.ch, Bahnhofstrasse 10, 8001 Zürich, Switzerland."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We'd love to hear from you. Get in touch with our team.",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Your name",
+      "email": "Email Address",
+      "emailPlaceholder": "your.email@example.ch",
+      "subject": "Subject",
+      "subjectPlaceholder": "How can we help?",
+      "message": "Message",
+      "messagePlaceholder": "Tell us more about your inquiry...",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully! We'll get back to you within 24 hours.",
+      "error": "Failed to send message. Please try again or email us directly."
+    },
+    "info": {
+      "title": "Other ways to reach us",
+      "email": "Email",
+      "emailValue": "support@justeat-clone.ch",
+      "phone": "Phone",
+      "phoneValue": "+41 44 123 45 67",
+      "hours": "Support Hours",
+      "hoursValue": "Mon–Fri: 08:00–22:00, Sat–Sun: 10:00–20:00",
+      "address": "Address",
+      "addressValue": "just-eat.ch\nBahnhofstrasse 10\n8001 Zürich\nSwitzerland"
+    }
+  }
+}

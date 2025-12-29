@@ -1,0 +1,53 @@
+{
+  "hero": {
+    "title": "Hungry? You're in the right place.",
+    "subtitle": "Order food from the best restaurants near you",
+    "searchPlaceholder": "Enter your address or postal code",
+    "delivery": "Delivery",
+    "pickup": "Pickup",
+    "findRestaurants": "Find restaurants",
+    "or": "or",
+    "useMyLocation": "Use my location",
+    "popularCities": "Popular cities"
+  },
+  "cuisines": {
+    "title": "Popular cuisines",
+    "subtitle": "Explore our most popular food categories",
+    "viewAll": "View all cuisines",
+    "viewLess": "View less",
+    "restaurants": "{{count}} restaurants"
+  },
+  "topRestaurants": {
+    "title": "Top restaurants near you",
+    "subtitle": "Highest rated restaurants delivering to your area",
+    "titleInCity": "Top restaurants in {{city}}",
+    "subtitleInCity": "Based on your location in {{city}}",
+    "viewAll": "View all restaurants",
+    "deliveryFee": "Delivery {{fee}}",
+    "freeDelivery": "Free delivery",
+    "minOrder": "Min. {{amount}}",
+    "rating": "{{rating}}",
+    "reviews": "({{count}})",
+    "deliveryTime": "{{min}}–{{max}} min",
+    "featured": "Featured"
+  },
+  "howItWorks": {
+    "title": "How it works",
+    "subtitle": "Order food in 3 easy steps",
+    "step1Title": "Choose your restaurant",
+    "step1Description": "Browse through hundreds of restaurants and cuisines in your area",
+    "step2Title": "Pick your meal",
+    "step2Description": "Choose from a wide variety of dishes and customize your order",
+    "step3Title": "Enjoy your food",
+    "step3Description": "Track your delivery in real-time and enjoy your meal at home"
+  },
+  "appPromotion": {
+    "title": "Order on the go",
+    "subtitle": "Download the just-eat.ch app for a better ordering experience",
+    "feature1": "Exclusive app-only offers",
+    "feature2": "Track your delivery in real-time",
+    "feature3": "Quick reorder of your favorites",
+    "downloadOnAppStore": "Download on the App Store",
+    "getOnGooglePlay": "Get it on Google Play"
+  }
+}

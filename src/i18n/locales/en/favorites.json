@@ -1,0 +1,18 @@
+{
+  "title": "My Favorites",
+  "subtitle": "Your saved restaurants",
+  "noFavorites": "You haven't saved any favorites yet.",
+  "noFavoritesDescription": "Tap the heart icon on a restaurant to save it here.",
+  "browseRestaurants": "Browse Restaurants",
+  "remove": "Remove",
+  "removed": "Removed from favorites.",
+  "added": "Added to favorites.",
+  "removeError": "Failed to update favorites.",
+  "delivery": "Delivery",
+  "pickup": "Pickup",
+  "closed": "Closed",
+  "rating": "{{rating}} ({{count}} reviews)",
+  "deliveryFee": "Delivery {{fee}}",
+  "deliveryFree": "Free delivery",
+  "deliveryTime": "{{min}}–{{max}} min"
+}

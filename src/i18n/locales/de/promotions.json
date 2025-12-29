@@ -1,0 +1,52 @@
+{
+  "title": "Aktionen",
+  "subtitle": "Ihre Gutscheine und Stempelkarten",
+  "tabs": {
+    "stamps": "Stempelkarten",
+    "coupons": "Gutscheine"
+  },
+  "stamps": {
+    "title": "Meine Stempelkarten",
+    "subtitle": "Sammeln Sie Stempel bei jeder Bestellung",
+    "empty": "Noch keine Stempelkarten",
+    "emptyDesc": "Bestellen Sie, um Stempel zu sammeln und Belohnungen zu erhalten!",
+    "progress": "{{collected}} / {{required}} Stempel",
+    "complete": "Vollständig!",
+    "redeem": "Belohnung einlösen",
+    "redeeming": "Wird eingelöst...",
+    "redeemed": "Eingelöst",
+    "reward": "Belohnung",
+    "restaurant": "Restaurant",
+    "stampsLeft": "Noch {{count}} Stempel",
+    "validUntil": "Gültig bis {{date}}",
+    "expired": "Abgelaufen"
+  },
+  "coupons": {
+    "title": "Gutschein prüfen",
+    "subtitle": "Geben Sie einen Gutscheincode ein, um seine Gültigkeit zu prüfen",
+    "code": "Gutscheincode",
+    "codePlaceholder": "Gutscheincode eingeben",
+    "restaurant": "Restaurant",
+    "subtotal": "Bestellsumme",
+    "validate": "Überprüfen",
+    "validating": "Wird überprüft...",
+    "valid": "Gutschein ist gültig!",
+    "invalid": "Gutschein ist ungültig",
+    "discount": "Rabatt",
+    "discountAmount": "Sie sparen {{amount}}",
+    "minimumOrder": "Mindestbestellung: {{amount}}",
+    "maxDiscount": "Max. Rabatt: {{amount}}",
+    "validFrom": "Gültig ab {{date}}",
+    "validUntil": "Gültig bis {{date}}",
+    "percentage": "{{value}}% Rabatt",
+    "flat": "{{amount}} Rabatt"
+  },
+  "success": {
+    "redeemed": "Belohnung erfolgreich eingelöst!"
+  },
+  "errors": {
+    "redeemFailed": "Belohnung konnte nicht eingelöst werden",
+    "validateFailed": "Gutschein konnte nicht überprüft werden",
+    "loadFailed": "Aktionen konnten nicht geladen werden"
+  }
+}

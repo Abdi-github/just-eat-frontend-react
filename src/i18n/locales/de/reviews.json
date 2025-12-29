@@ -1,0 +1,49 @@
+{
+  "title": "Meine Bewertungen",
+  "subtitle": "Bewertungen, die Sie geschrieben haben",
+  "noReviews": "Sie haben noch keine Bewertungen geschrieben.",
+  "noReviewsDescription": "Nach einer Lieferung können Sie eine Bewertung für das Restaurant abgeben.",
+  "browseOrders": "Bestellungen anzeigen",
+  "writeReview": "Bewertung schreiben",
+  "editReview": "Bewertung bearbeiten",
+  "deleteReview": "Bewertung löschen",
+  "rating": "Bewertung",
+  "comment": "Kommentar",
+  "commentPlaceholder": "Teilen Sie Ihre Erfahrung...",
+  "submitReview": "Bewertung abgeben",
+  "submitting": "Wird gesendet...",
+  "updateReview": "Bewertung aktualisieren",
+  "updating": "Wird aktualisiert...",
+  "form": {
+    "restaurant": "Restaurant",
+    "order": "Bestellung",
+    "ratingRequired": "Bitte wählen Sie eine Bewertung",
+    "ratingLabel": "Wie war Ihre Erfahrung?",
+    "stars_one": "{{count}} Stern",
+    "stars_other": "{{count}} Sterne"
+  },
+  "success": {
+    "created": "Bewertung erfolgreich abgegeben.",
+    "updated": "Bewertung erfolgreich aktualisiert.",
+    "deleted": "Bewertung erfolgreich gelöscht."
+  },
+  "error": {
+    "createFailed": "Bewertung konnte nicht abgegeben werden.",
+    "updateFailed": "Bewertung konnte nicht aktualisiert werden.",
+    "deleteFailed": "Bewertung konnte nicht gelöscht werden."
+  },
+  "deleteConfirm": {
+    "title": "Bewertung löschen",
+    "description": "Sind Sie sicher, dass Sie diese Bewertung löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.",
+    "confirm": "Löschen",
+    "cancel": "Abbrechen"
+  },
+  "status": {
+    "PENDING": "Ausstehend",
+    "APPROVED": "Genehmigt",
+    "REJECTED": "Abgelehnt",
+    "FLAGGED": "Markiert"
+  },
+  "restaurantReply": "Antwort des Restaurants",
+  "verified": "Verifizierte Bestellung"
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Promotions",
+  "subtitle": "Your coupons and stamp cards",
+  "tabs": {
+    "stamps": "Stamp Cards",
+    "coupons": "Coupons"
+  },
+  "stamps": {
+    "title": "My Stamp Cards",
+    "subtitle": "Collect stamps with every order",
+    "empty": "No stamp cards yet",
+    "emptyDesc": "Start ordering to collect stamps and earn rewards!",
+    "progress": "{{collected}} / {{required}} stamps",
+    "complete": "Complete!",
+    "redeem": "Redeem Reward",
+    "redeeming": "Redeeming...",
+    "redeemed": "Redeemed",
+    "reward": "Reward",
+    "restaurant": "Restaurant",
+    "stampsLeft": "{{count}} stamps to go",
+    "validUntil": "Valid until {{date}}",
+    "expired": "Expired"
+  },
+  "coupons": {
+    "title": "Validate Coupon",
+    "subtitle": "Enter a coupon code to check its validity",
+    "code": "Coupon Code",
+    "codePlaceholder": "Enter coupon code",
+    "restaurant": "Restaurant",
+    "subtotal": "Order Subtotal",
+    "validate": "Validate",
+    "validating": "Validating...",
+    "valid": "Coupon is valid!",
+    "invalid": "Coupon is not valid",
+    "discount": "Discount",
+    "discountAmount": "You save {{amount}}",
+    "minimumOrder": "Minimum order: {{amount}}",
+    "maxDiscount": "Max discount: {{amount}}",
+    "validFrom": "Valid from {{date}}",
+    "validUntil": "Valid until {{date}}",
+    "percentage": "{{value}}% off",
+    "flat": "{{amount}} off"
+  },
+  "success": {
+    "redeemed": "Reward redeemed successfully!"
+  },
+  "errors": {
+    "redeemFailed": "Failed to redeem reward",
+    "validateFailed": "Failed to validate coupon",
+    "loadFailed": "Failed to load promotions"
+  }
+}

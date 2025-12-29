@@ -1,0 +1,53 @@
+{
+  "hero": {
+    "title": "Faim ? Vous êtes au bon endroit.",
+    "subtitle": "Commandez de la nourriture dans les meilleurs restaurants près de chez vous",
+    "searchPlaceholder": "Entrez votre adresse ou code postal",
+    "delivery": "Livraison",
+    "pickup": "À emporter",
+    "findRestaurants": "Trouver des restaurants",
+    "or": "ou",
+    "useMyLocation": "Utiliser ma position",
+    "popularCities": "Villes populaires"
+  },
+  "cuisines": {
+    "title": "Cuisines populaires",
+    "subtitle": "Découvrez nos catégories les plus populaires",
+    "viewAll": "Voir toutes les cuisines",
+    "viewLess": "Voir moins",
+    "restaurants": "{{count}} restaurants"
+  },
+  "topRestaurants": {
+    "title": "Meilleurs restaurants près de chez vous",
+    "subtitle": "Les restaurants les mieux notés qui livrent dans votre quartier",
+    "titleInCity": "Meilleurs restaurants à {{city}}",
+    "subtitleInCity": "Basé sur votre position à {{city}}",
+    "viewAll": "Voir tous les restaurants",
+    "deliveryFee": "Livraison {{fee}}",
+    "freeDelivery": "Livraison gratuite",
+    "minOrder": "Min. {{amount}}",
+    "rating": "{{rating}}",
+    "reviews": "({{count}})",
+    "deliveryTime": "{{min}}–{{max}} min",
+    "featured": "En vedette"
+  },
+  "howItWorks": {
+    "title": "Comment ça marche",
+    "subtitle": "Commandez en 3 étapes simples",
+    "step1Title": "Choisissez votre restaurant",
+    "step1Description": "Parcourez des centaines de restaurants et de cuisines dans votre région",
+    "step2Title": "Choisissez votre plat",
+    "step2Description": "Choisissez parmi une grande variété de plats et personnalisez votre commande",
+    "step3Title": "Savourez votre repas",
+    "step3Description": "Suivez votre livraison en temps réel et savourez votre repas chez vous"
+  },
+  "appPromotion": {
+    "title": "Commandez en déplacement",
+    "subtitle": "Téléchargez l'application just-eat.ch pour une meilleure expérience",
+    "feature1": "Offres exclusives dans l'application",
+    "feature2": "Suivez votre livraison en temps réel",
+    "feature3": "Recommandez rapidement vos favoris",
+    "downloadOnAppStore": "Télécharger sur l'App Store",
+    "getOnGooglePlay": "Disponible sur Google Play"
+  }
+}

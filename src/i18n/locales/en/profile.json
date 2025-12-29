@@ -1,0 +1,63 @@
+{
+  "title": "Profile",
+  "subtitle": "Manage your account settings",
+  "personalInfo": "Personal Information",
+  "personalInfoDescription": "Update your name and contact details",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "email": "Email",
+  "phone": "Phone Number",
+  "phonePlaceholder": "+41 XX XXX XX XX",
+  "preferredLanguage": "Preferred Language",
+  "saveChanges": "Save Changes",
+  "saving": "Saving...",
+  "profileUpdated": "Profile updated successfully.",
+  "profileUpdateError": "Failed to update profile.",
+  "avatar": {
+    "title": "Profile Picture",
+    "upload": "Upload Photo",
+    "remove": "Remove Photo",
+    "uploading": "Uploading...",
+    "uploaded": "Photo uploaded successfully.",
+    "removed": "Photo removed.",
+    "uploadError": "Failed to upload photo.",
+    "removeError": "Failed to remove photo.",
+    "maxSize": "Max file size: 5MB",
+    "formats": "JPG, PNG, or WebP"
+  },
+  "password": {
+    "title": "Change Password",
+    "description": "Update your password to keep your account secure",
+    "currentPassword": "Current Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm New Password",
+    "change": "Change Password",
+    "changing": "Changing...",
+    "changed": "Password changed successfully.",
+    "changeError": "Failed to change password. Please check your current password.",
+    "requirements": "At least 8 characters with uppercase, lowercase, number, and special character",
+    "mismatch": "Passwords do not match"
+  },
+  "notifications": {
+    "title": "Notification Preferences",
+    "description": "Choose which notifications you'd like to receive",
+    "emailOrderUpdates": "Order Updates",
+    "emailOrderUpdatesDescription": "Receive email notifications about your order status",
+    "emailPromotions": "Promotions",
+    "emailPromotionsDescription": "Receive emails about deals and promotions",
+    "emailNewsletter": "Newsletter",
+    "emailNewsletterDescription": "Receive our weekly newsletter",
+    "pushEnabled": "Push Notifications",
+    "pushEnabledDescription": "Receive push notifications on your device",
+    "saved": "Notification preferences saved.",
+    "saveError": "Failed to save notification preferences."
+  },
+  "deactivate": {
+    "title": "Deactivate Account",
+    "description": "Permanently deactivate your account. This action cannot be undone.",
+    "button": "Deactivate Account",
+    "confirm": "Are you sure you want to deactivate your account? You will lose access to all your data.",
+    "success": "Account deactivated.",
+    "error": "Failed to deactivate account."
+  }
+}

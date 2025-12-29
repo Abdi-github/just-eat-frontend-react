@@ -1,0 +1,64 @@
+{
+  "title": "Mes adresses",
+  "subtitle": "Gérer vos adresses de livraison",
+  "addAddress": "Ajouter une adresse",
+  "editAddress": "Modifier l'adresse",
+  "noAddresses": "Vous n'avez pas encore ajouté d'adresses.",
+  "noAddressesDescription": "Ajoutez une adresse de livraison pour accélérer le paiement.",
+  "default": "Par défaut",
+  "setDefault": "Définir par défaut",
+  "delete": "Supprimer",
+  "edit": "Modifier",
+  "maxReached": "Maximum de 10 adresses atteint.",
+  "form": {
+    "label": "Libellé",
+    "labelPlaceholder": "ex. Maison, Bureau",
+    "street": "Rue",
+    "streetPlaceholder": "Nom de la rue",
+    "streetNumber": "Numéro",
+    "streetNumberPlaceholder": "ex. 12a",
+    "floor": "Étage",
+    "floorPlaceholder": "ex. 3e étage",
+    "postalCode": "Code postal",
+    "postalCodePlaceholder": "ex. 1201",
+    "city": "Ville",
+    "cityPlaceholder": "Sélectionner une ville",
+    "canton": "Canton",
+    "cantonPlaceholder": "Sélectionner un canton",
+    "selectCantonFirst": "Veuillez d'abord sélectionner un canton",
+    "instructions": "Instructions de livraison",
+    "instructionsPlaceholder": "ex. Sonnez deux fois",
+    "isDefault": "Définir comme adresse par défaut",
+    "save": "Enregistrer l'adresse",
+    "saving": "Enregistrement...",
+    "cancel": "Annuler"
+  },
+  "success": {
+    "created": "Adresse ajoutée avec succès.",
+    "updated": "Adresse mise à jour avec succès.",
+    "deleted": "Adresse supprimée avec succès.",
+    "defaultSet": "Adresse par défaut mise à jour."
+  },
+  "error": {
+    "createFailed": "Impossible d'ajouter l'adresse.",
+    "updateFailed": "Impossible de mettre à jour l'adresse.",
+    "deleteFailed": "Impossible de supprimer l'adresse.",
+    "defaultFailed": "Impossible de définir l'adresse par défaut."
+  },
+  "deleteConfirm": {
+    "title": "Supprimer l'adresse",
+    "description": "Êtes-vous sûr de vouloir supprimer cette adresse ? Cette action est irréversible.",
+    "confirm": "Supprimer",
+    "cancel": "Annuler"
+  },
+  "validation": {
+    "labelRequired": "Le libellé est requis",
+    "labelMax": "Le libellé ne doit pas dépasser 50 caractères",
+    "streetRequired": "La rue est requise",
+    "streetNumberRequired": "Le numéro de rue est requis",
+    "postalCodeRequired": "Le code postal est requis",
+    "postalCodeFormat": "Le code postal doit comporter 4 chiffres",
+    "cityRequired": "La ville est requise",
+    "cantonRequired": "Le canton est requis"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Ihr Warenkorb",
+  "pageTitle": "Warenkorb",
+  "empty": {
+    "title": "Ihr Warenkorb ist leer",
+    "description": "Es sieht so aus, als hätten Sie noch keine Artikel hinzugefügt. Stöbern Sie in unseren Restaurants und finden Sie etwas Leckeres!",
+    "browseRestaurants": "Restaurants durchsuchen"
+  },
+  "item": {
+    "specialInstructions": "Besondere Anweisungen",
+    "remove": "Entfernen",
+    "options": "Optionen"
+  },
+  "summary": {
+    "title": "Bestellübersicht",
+    "subtotal": "Zwischensumme",
+    "deliveryFee": "Liefergebühr",
+    "freeDelivery": "Gratis",
+    "total": "Gesamt",
+    "minimumOrder": "Mindestbestellwert: {{amount}}",
+    "belowMinimum": "Noch {{amount}} bis zum Mindestbestellwert",
+    "itemCount": "{{count}} Artikel",
+    "itemCount_other": "{{count}} Artikel"
+  },
+  "orderType": {
+    "label": "Bestellart",
+    "delivery": "Lieferung",
+    "pickup": "Abholung"
+  },
+  "actions": {
+    "checkout": "Zur Kasse",
+    "loginToCheckout": "Anmelden & zur Kasse",
+    "loginToCheckoutHint": "Sie müssen angemeldet sein, um eine Bestellung aufzugeben.",
+    "continueShopping": "Weiter einkaufen",
+    "clearCart": "Warenkorb leeren",
+    "viewCart": "Warenkorb anzeigen",
+    "goToRestaurant": "Zum Restaurant"
+  },
+  "restaurant": {
+    "orderingFrom": "Bestellung bei",
+    "differentRestaurant": "Anderes Restaurant",
+    "differentRestaurantWarning": "Ihr Warenkorb enthält Artikel von {{restaurant}}. Eine neue Bestellung löscht Ihren aktuellen Warenkorb.",
+    "replaceCart": "Warenkorb ersetzen",
+    "keepCart": "Warenkorb behalten"
+  },
+  "sidebar": {
+    "title": "Ihre Bestellung",
+    "emptyHint": "Fügen Sie Artikel aus dem Menü hinzu"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Promozioni",
+  "subtitle": "I tuoi coupon e carte fedeltà",
+  "tabs": {
+    "stamps": "Carte fedeltà",
+    "coupons": "Coupon"
+  },
+  "stamps": {
+    "title": "Le mie carte fedeltà",
+    "subtitle": "Colleziona timbri ad ogni ordine",
+    "empty": "Nessuna carta fedeltà ancora",
+    "emptyDesc": "Inizia a ordinare per raccogliere timbri e guadagnare premi!",
+    "progress": "{{collected}} / {{required}} timbri",
+    "complete": "Completata!",
+    "redeem": "Riscatta premio",
+    "redeeming": "Riscatto...",
+    "redeemed": "Riscattata",
+    "reward": "Premio",
+    "restaurant": "Ristorante",
+    "stampsLeft": "Ancora {{count}} timbri",
+    "validUntil": "Valida fino al {{date}}",
+    "expired": "Scaduta"
+  },
+  "coupons": {
+    "title": "Verifica coupon",
+    "subtitle": "Inserisci un codice coupon per verificarne la validità",
+    "code": "Codice coupon",
+    "codePlaceholder": "Inserisci il codice coupon",
+    "restaurant": "Ristorante",
+    "subtotal": "Subtotale ordine",
+    "validate": "Verifica",
+    "validating": "Verifica in corso...",
+    "valid": "Coupon valido!",
+    "invalid": "Coupon non valido",
+    "discount": "Sconto",
+    "discountAmount": "Risparmi {{amount}}",
+    "minimumOrder": "Ordine minimo: {{amount}}",
+    "maxDiscount": "Sconto max: {{amount}}",
+    "validFrom": "Valido dal {{date}}",
+    "validUntil": "Valido fino al {{date}}",
+    "percentage": "{{value}}% di sconto",
+    "flat": "{{amount}} di sconto"
+  },
+  "success": {
+    "redeemed": "Premio riscattato con successo!"
+  },
+  "errors": {
+    "redeemFailed": "Impossibile riscattare il premio",
+    "validateFailed": "Impossibile verificare il coupon",
+    "loadFailed": "Impossibile caricare le promozioni"
+  }
+}

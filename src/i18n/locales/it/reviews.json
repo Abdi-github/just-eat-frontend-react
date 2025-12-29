@@ -1,0 +1,49 @@
+{
+  "title": "Le mie recensioni",
+  "subtitle": "Le recensioni che hai scritto",
+  "noReviews": "Non hai ancora scritto recensioni.",
+  "noReviewsDescription": "Dopo una consegna, puoi lasciare una recensione per il ristorante.",
+  "browseOrders": "Vedi ordini",
+  "writeReview": "Scrivi una recensione",
+  "editReview": "Modifica recensione",
+  "deleteReview": "Elimina recensione",
+  "rating": "Valutazione",
+  "comment": "Commento",
+  "commentPlaceholder": "Condividi la tua esperienza...",
+  "submitReview": "Invia recensione",
+  "submitting": "Invio in corso...",
+  "updateReview": "Aggiorna recensione",
+  "updating": "Aggiornamento...",
+  "form": {
+    "restaurant": "Ristorante",
+    "order": "Ordine",
+    "ratingRequired": "Seleziona una valutazione",
+    "ratingLabel": "Com'è stata la tua esperienza?",
+    "stars_one": "{{count}} stella",
+    "stars_other": "{{count}} stelle"
+  },
+  "success": {
+    "created": "Recensione inviata con successo.",
+    "updated": "Recensione aggiornata con successo.",
+    "deleted": "Recensione eliminata con successo."
+  },
+  "error": {
+    "createFailed": "Impossibile inviare la recensione.",
+    "updateFailed": "Impossibile aggiornare la recensione.",
+    "deleteFailed": "Impossibile eliminare la recensione."
+  },
+  "deleteConfirm": {
+    "title": "Elimina recensione",
+    "description": "Sei sicuro di voler eliminare questa recensione? Questa azione non può essere annullata.",
+    "confirm": "Elimina",
+    "cancel": "Annulla"
+  },
+  "status": {
+    "PENDING": "In attesa",
+    "APPROVED": "Approvata",
+    "REJECTED": "Rifiutata",
+    "FLAGGED": "Segnalata"
+  },
+  "restaurantReply": "Risposta del ristorante",
+  "verified": "Ordine verificato"
+}

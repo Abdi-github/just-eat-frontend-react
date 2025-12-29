@@ -1,0 +1,50 @@
+{
+  "title": "Votre panier",
+  "pageTitle": "Panier",
+  "empty": {
+    "title": "Votre panier est vide",
+    "description": "Il semble que vous n'ayez encore ajouté aucun article. Parcourez nos restaurants et trouvez quelque chose de délicieux !",
+    "browseRestaurants": "Parcourir les restaurants"
+  },
+  "item": {
+    "specialInstructions": "Instructions spéciales",
+    "remove": "Supprimer",
+    "options": "Options"
+  },
+  "summary": {
+    "title": "Résumé de la commande",
+    "subtotal": "Sous-total",
+    "deliveryFee": "Frais de livraison",
+    "freeDelivery": "Gratuit",
+    "total": "Total",
+    "minimumOrder": "Commande minimum : {{amount}}",
+    "belowMinimum": "Ajoutez encore {{amount}} pour atteindre la commande minimum",
+    "itemCount": "{{count}} article",
+    "itemCount_other": "{{count}} articles"
+  },
+  "orderType": {
+    "label": "Type de commande",
+    "delivery": "Livraison",
+    "pickup": "À emporter"
+  },
+  "actions": {
+    "checkout": "Passer à la caisse",
+    "loginToCheckout": "Se connecter pour commander",
+    "loginToCheckoutHint": "Vous devez être connecté pour passer une commande.",
+    "continueShopping": "Continuer les achats",
+    "clearCart": "Vider le panier",
+    "viewCart": "Voir le panier",
+    "goToRestaurant": "Aller au restaurant"
+  },
+  "restaurant": {
+    "orderingFrom": "Commande chez",
+    "differentRestaurant": "Restaurant différent",
+    "differentRestaurantWarning": "Votre panier contient des articles de {{restaurant}}. Passer une nouvelle commande videra votre panier actuel.",
+    "replaceCart": "Remplacer le panier",
+    "keepCart": "Garder le panier"
+  },
+  "sidebar": {
+    "title": "Votre commande",
+    "emptyHint": "Ajoutez des articles du menu"
+  }
+}

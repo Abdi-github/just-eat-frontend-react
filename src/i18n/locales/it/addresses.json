@@ -1,0 +1,64 @@
+{
+  "title": "I miei indirizzi",
+  "subtitle": "Gestisci i tuoi indirizzi di consegna",
+  "addAddress": "Aggiungi indirizzo",
+  "editAddress": "Modifica indirizzo",
+  "noAddresses": "Non hai ancora aggiunto indirizzi.",
+  "noAddressesDescription": "Aggiungi un indirizzo di consegna per velocizzare il checkout.",
+  "default": "Predefinito",
+  "setDefault": "Imposta come predefinito",
+  "delete": "Elimina",
+  "edit": "Modifica",
+  "maxReached": "Massimo di 10 indirizzi raggiunto.",
+  "form": {
+    "label": "Etichetta",
+    "labelPlaceholder": "es. Casa, Ufficio",
+    "street": "Via",
+    "streetPlaceholder": "Nome della via",
+    "streetNumber": "Numero",
+    "streetNumberPlaceholder": "es. 12a",
+    "floor": "Piano",
+    "floorPlaceholder": "es. 3° piano",
+    "postalCode": "Codice postale",
+    "postalCodePlaceholder": "es. 6900",
+    "city": "Città",
+    "cityPlaceholder": "Seleziona una città",
+    "canton": "Cantone",
+    "cantonPlaceholder": "Seleziona un cantone",
+    "selectCantonFirst": "Seleziona prima un cantone",
+    "instructions": "Istruzioni di consegna",
+    "instructionsPlaceholder": "es. Suonare due volte",
+    "isDefault": "Imposta come indirizzo predefinito",
+    "save": "Salva indirizzo",
+    "saving": "Salvataggio...",
+    "cancel": "Annulla"
+  },
+  "success": {
+    "created": "Indirizzo aggiunto con successo.",
+    "updated": "Indirizzo aggiornato con successo.",
+    "deleted": "Indirizzo eliminato con successo.",
+    "defaultSet": "Indirizzo predefinito aggiornato."
+  },
+  "error": {
+    "createFailed": "Impossibile aggiungere l'indirizzo.",
+    "updateFailed": "Impossibile aggiornare l'indirizzo.",
+    "deleteFailed": "Impossibile eliminare l'indirizzo.",
+    "defaultFailed": "Impossibile impostare l'indirizzo predefinito."
+  },
+  "deleteConfirm": {
+    "title": "Elimina indirizzo",
+    "description": "Sei sicuro di voler eliminare questo indirizzo? Questa azione non può essere annullata.",
+    "confirm": "Elimina",
+    "cancel": "Annulla"
+  },
+  "validation": {
+    "labelRequired": "L'etichetta è obbligatoria",
+    "labelMax": "L'etichetta non deve superare i 50 caratteri",
+    "streetRequired": "La via è obbligatoria",
+    "streetNumberRequired": "Il numero civico è obbligatorio",
+    "postalCodeRequired": "Il codice postale è obbligatorio",
+    "postalCodeFormat": "Il codice postale deve essere di 4 cifre",
+    "cityRequired": "La città è obbligatoria",
+    "cantonRequired": "Il cantone è obbligatorio"
+  }
+}

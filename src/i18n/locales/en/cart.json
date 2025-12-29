@@ -1,0 +1,50 @@
+{
+  "title": "Your Cart",
+  "pageTitle": "Shopping Cart",
+  "empty": {
+    "title": "Your cart is empty",
+    "description": "Looks like you haven't added any items yet. Browse our restaurants and find something delicious!",
+    "browseRestaurants": "Browse Restaurants"
+  },
+  "item": {
+    "specialInstructions": "Special instructions",
+    "remove": "Remove",
+    "options": "Options"
+  },
+  "summary": {
+    "title": "Order Summary",
+    "subtotal": "Subtotal",
+    "deliveryFee": "Delivery fee",
+    "freeDelivery": "Free",
+    "total": "Total",
+    "minimumOrder": "Minimum order: {{amount}}",
+    "belowMinimum": "Add {{amount}} more to reach the minimum order",
+    "itemCount": "{{count}} item",
+    "itemCount_other": "{{count}} items"
+  },
+  "orderType": {
+    "label": "Order type",
+    "delivery": "Delivery",
+    "pickup": "Pickup"
+  },
+  "actions": {
+    "checkout": "Proceed to Checkout",
+    "loginToCheckout": "Log in to Checkout",
+    "loginToCheckoutHint": "You need to be logged in to place an order.",
+    "continueShopping": "Continue Shopping",
+    "clearCart": "Clear Cart",
+    "viewCart": "View Cart",
+    "goToRestaurant": "Go to Restaurant"
+  },
+  "restaurant": {
+    "orderingFrom": "Ordering from",
+    "differentRestaurant": "Different restaurant",
+    "differentRestaurantWarning": "Your cart contains items from {{restaurant}}. Starting a new order will clear your current cart.",
+    "replaceCart": "Replace Cart",
+    "keepCart": "Keep Cart"
+  },
+  "sidebar": {
+    "title": "Your Order",
+    "emptyHint": "Add items from the menu"
+  }
+}
