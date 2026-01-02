@@ -1,0 +1,16 @@
+services:
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    container_name: justeat_frontend_dev
+    restart: unless-stopped
+    ports:
+      - "5176:5176"
+    volumes:
+      - .:/app
+      - /app/node_modules
+    environment:
+      - VITE_API_URL=http://localhost:4011/api/v1
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
