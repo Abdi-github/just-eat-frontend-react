@@ -1,0 +1,19 @@
+Issues to be fixed:
+
+1:- How is restaurants and couriers register to the platform ? did we have all the necessary requirements and functionalities on the backend and frontend? Apply all the missing functionalities based on the real world practice.
+
+2:- On the actual just-eat.ch site on the navigation bar there is a menu item saying "Become a courier" and "Partner with us". After making all the neccessary changes which is required to register a courier and a restaurant and implement approval logic you may also wire it the new menu items on the nav bar.
+
+3:- All the restaurants card image is identical. I think we should modify our restaurant related backend files so the the restaurat could have image. For that I think you are capable of generating different restaurant images from cloud and upload them to cloudinary and wire it the seed file. for that the cloudinary MCP server is at your disposal?
+
+4:- All images we are using are from scraped data url so we do not have control over them if they are removed. so upload all the images to cloudinary and use the exact image for the resource we are using from our cloudinary. Make sure we are really uploaded all the images. If there are images which could not be uploaded inform me before the next step.
+
+5:- The restaurants page is designed in traditional pagination system (Offset Pagination). I know we only designed the API pagination system on offset based. So for restaurants and other paginated data in the frontend in addition to the existing offset pagination system create cursor pagination system with its own route for restaurants and other paginated data in the frontend. 
+
+6:- Most of  the restaurants do not have menu and review data in the restaurant detail page. Fix this issue by generating and updating menus with some how real world data . concerning reviews update our seed files for reviews in such a way that create meaningful reviews based on the user prefered language. For that you may update the user seed to have  80 users of different prefered language. each restaurant should have between 8 and 16 reviews. 
+
+7:- In the checkout part of the front-end except from the cash payment method the other payments method is not working. I think the problem is that when we develop the backend I did not provide the neccessary keys like api keys and others depending on the provider on the environment file. once you reached at this point could you guide me how to get the neccessary credentials to test our payment method from each provider ? NOTE: As this is a portfolio project we are working on sandbox or test mode of payment. 
+
+NOTE:- TO MAKE IT EASY FOR YOU TO WORK ON BOTH ON BACKEND AND FRONTEND I CREATED A FULLSTACK MCP SERVER PROFILE AND MAKE IT ENABLED.
+
+NOTE:- AFTER MAKING CHANGES IN THE BACKEND UPDATE ALL RELATED FILES AND CODES WHICH ARE RELATED TO THE CHANGE, INCLUDING ALL REALTED DOCUMENTATIONS, THE ADMIN PANEL , AND ETC
