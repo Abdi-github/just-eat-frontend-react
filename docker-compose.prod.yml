@@ -5,8 +5,8 @@ services:
       dockerfile: Dockerfile
     container_name: justeat_frontend_react_prod
     restart: unless-stopped
-    ports:
-      - "5176:80"
+    expose:
+      - "80"
     environment:
       - NODE_ENV=production
     networks:
