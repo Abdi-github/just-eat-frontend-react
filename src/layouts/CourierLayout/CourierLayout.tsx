@@ -39,8 +39,7 @@ export function CourierLayout() {
       >
         <div className="flex items-center justify-between p-4">
           <Link to="/" className="flex items-center gap-2">
-            <span className="text-xl font-bold text-primary">just-eat</span>
-            <span className="text-xs text-muted-foreground">.ch</span>
+            <img src="/logo.svg" alt="just-eat.ch" className="h-7" />
           </Link>
           <button
             onClick={() => setSidebarOpen(false)}

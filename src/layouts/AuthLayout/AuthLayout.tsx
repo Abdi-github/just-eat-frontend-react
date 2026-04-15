@@ -6,8 +6,7 @@ export function AuthLayout() {
       <div className="w-full max-w-md">
         <div className="mb-8 text-center">
           <Link to="/" className="inline-block">
-            <span className="text-3xl font-bold text-primary">just-eat</span>
-            <span className="text-lg text-muted-foreground">.ch</span>
+            <img src="/logo.svg" alt="just-eat.ch" className="h-10" />
           </Link>
         </div>
         <div className="rounded-xl border border-border bg-white p-6 shadow-card">

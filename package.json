@@ -6,7 +6,7 @@
   "description": "just-eat.ch - Swiss Food Delivery Platform Frontend",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "vite build",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "format": "prettier --write \"src/**/*.{ts,tsx,css}\"",

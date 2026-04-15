@@ -63,8 +63,7 @@ export function Header() {
           className="flex items-center gap-2"
           aria-label={t("app.name")}
         >
-          <span className="text-2xl font-bold text-primary">just-eat</span>
-          <span className="text-sm text-muted-foreground">.ch</span>
+          <img src="/logo.svg" alt="just-eat.ch" className="h-8" />
         </Link>
 
         {/* Desktop Navigation */}

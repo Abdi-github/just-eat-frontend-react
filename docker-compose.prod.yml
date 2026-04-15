@@ -1,0 +1,32 @@
+services:
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: justeat_frontend_react_prod
+    restart: unless-stopped
+    ports:
+      - "5176:80"
+    environment:
+      - NODE_ENV=production
+    networks:
+      - justeat_network
+      - traefik
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.justeat-react.rule=Host(`justeat-react.swiftapp.ch`)"
+      - "traefik.http.routers.justeat-react.entrypoints=websecure"
+      - "traefik.http.routers.justeat-react.tls.certresolver=letsencrypt"
+      - "traefik.http.services.justeat-react.loadbalancer.server.port=80"
+    healthcheck:
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost/"]
+      interval: 30s
+      timeout: 3s
+      retries: 3
+      start_period: 5s
+
+networks:
+  justeat_network:
+    external: true
+  traefik:
+    external: true
